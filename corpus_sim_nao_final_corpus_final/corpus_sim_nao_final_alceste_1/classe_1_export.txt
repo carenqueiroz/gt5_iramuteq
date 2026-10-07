@@ -1,0 +1,618 @@
+**** *id_004 *cid_1 *ano_2022
+caused by extreme climate events by combining citizen_science approaches and methods with participatory geographic information systems and social cartography the article concludes by pointing out the contributions and limits of the right to research as a relevant social science approach to reframe citizen_science from a democratic view
+
+**** *id_006 *cid_1 *ano_2021
+risks from disasters on the one hand this learning strengthens the role of production of data by citizens information and knowledge relevant for the prevention resilience to and management of these risks and on the other hand it broadens the scope
+
+**** *id_006 *cid_1 *ano_2021
+of citizen_science to confront emergency and disaster situations while reinforcing the situated character of this approach
+
+**** *id_008 *cid_1 *ano_2021
+since hazards act upon vulnerability and exposure to become disasters the understanding of societal challenges is key for disaster risk reduction this condition is even more critical when more than one hazard is in place taking the case of flooding and
+
+**** *id_008 *cid_1 *ano_2021
+water shortage this study is built upon the premise that disasters are a social phenomenon therefore it is essential to comprehend the social context in which they occur particularly this study aims to evaluate the similarities and differences in risk perception
+
+**** *id_008 *cid_1 *ano_2021
+and the coping capacity of residents in the multiple_hazard context for this a place_based citizen_science approach was developed in this study in campina grande a semiarid region of brazil with the collaboration of 199 participants risk perception and coping capacity were
+
+**** *id_008 *cid_1 *ano_2021
+analysed through the citizens participation while combining subjective and objective methods the results indicate that even though residents have experienced severe flooding and water shortages in the past they still have low coping capacity the findings highlight the need to combine
+
+**** *id_008 *cid_1 *ano_2021
+a triad of societal challenges namely information trust and incentives to improve coping capacity in the future and increase resilience this study underlines the need to understand multiple hazards according to social spatial and temporal scales in a socio_spatial perspective
+
+**** *id_018 *cid_1 *ano_2019
+and early summer as key periods for management grouper reproduction fourth studies on grouper larvae fifth mapping of fishing spots sixth studies on local knowledge collaboration with small_scale fishers and local knowledge could contribute to low_conflict management measures in that regard
+
+**** *id_020 *cid_1 *ano_2017
+a large number of sustainable use reserves recently have been titled in the brazilian amazonia these reserves require public participation in the design and implementation of management and monitoring programs species_monitoring programs that engage local stakeholders may be useful for assessing
+
+**** *id_020 *cid_1 *ano_2017
+wildlife status over the long term we collaborated on the development of a participatory program to monitor forest vertebrates in the piagacu_purus sustainable development reserve and to build capacity among the local people we examined relations between the distance to the
+
+**** *id_020 *cid_1 *ano_2017
+engagement the involvement of local people promoted discussions about regulation of hunting in the reserve implementation of community_based programs to monitor forest wildlife in amazonian sustainable use reserves may empower local communities and assess the status of wildlife through time
+
+**** *id_038 *cid_1 *ano_2022
+gulf of mexico and caribbean sea species original range indicating ballast water as a possible introduction route in laguna the introduction may have occurred by maritime cabotage services the reproductive capacity the interest of aquarists the absence of introduction policies aimed
+
+**** *id_041 *cid_1 *ano_2019
+the well_being of human and wildlife health involves many challenges such as monitoring the movement of pathogens expanding health surveillance collecting data and extracting information to identify and predict risks integrating specialists from different areas to handle data species and distinct
+
+**** *id_041 *cid_1 *ano_2019
+social and environmental contexts and the commitment to bringing relevant information to society in brazil there is still the difficulty of building a system that is not impaired by its large territorial extension and its poorly integrated sectoral policies the brazilian
+
+**** *id_041 *cid_1 *ano_2019
+wildlife health information system siss_geo to georeferenced wildlife health information system can be accessed at web in portuguese is a platform for collaborative monitoring that intends to overcome the challenges in wildlife health it aims at the integration and participation of
+
+**** *id_041 *cid_1 *ano_2019
+various segments of society encompassing the registration of animals occurrences by citizen scientists the reliable diagnosis of pathogens from the laboratory and expert networks and computational and mathematical challenges in analytical and predictive systems model interpretation data integration and visualization and
+
+**** *id_041 *cid_1 *ano_2019
+geographic information systems it has been successfully applied to support decision_making on recent wildlife health events such as a yellow fever epizootic
+
+**** *id_046 *cid_1 *ano_2023
+the brazilian biodiversity monitoring program monitora program is a long_term large_scale program aimed at monitoring the state of biodiversity and associated ecosystem services in the protected areas managed by instituto chico mendes de conservacao da biodiversidade icmbio encouraging qualified social participation
+
+**** *id_046 *cid_1 *ano_2023
+legitimate and continuous involvement and participation are described we also illustrate some of the results from the program and discuss how the program can contribute to the achievement of the united nations sustainable development goals in brazil in 2022 the program
+
+**** *id_046 *cid_1 *ano_2023
+was implemented in 113 of the 334 protected areas managed by instituto chico mendes de conservacao da biodiversidade most of them in the amazon the program results are aligned to 12 of the 17 sustainable development goals influencing changes that move
+
+**** *id_046 *cid_1 *ano_2023
+society closer to these goals at the local scale data from the monitora program can be used to support brazilian sustainable development goals reporting but this requires further developments social participation in the monitora program has strengthened links between institutions and
+
+**** *id_046 *cid_1 *ano_2023
+people of different profiles enhancing participation in protected area management and generating multiple local impacts while producing quality biodiversity information to inform decision_making in conservation
+
+**** *id_059 *cid_1 *ano_2021
+and promote their conservation in an era of rapid change nevertheless its impact in the long term will depend on improving the quality of the data and involvement of more birdwatchers
+
+**** *id_062 *cid_1 *ano_2015
+the sustainable development reserve rds model in brazil provides legal context for monitoring wildlife with the involvement of local populations in gathering data and developing strategies for sustainable use we present results of one year of self monitoring by hunters in
+
+**** *id_062 *cid_1 *ano_2015
+5 communities within the sustainable development reserve_pp discuss how the observed patterns reflect local hunting regulations and suggest how this information could be incorporated into a formal management system in addition to the offtake data we interviewed hunters inquiring about informal
+
+**** *id_062 *cid_1 *ano_2015
+community hunting norms and agreements and analysed the content of 19 rules in the management plan of the reserve 509 hunting events were recorded by 37 of the 104 families present 35 percent self monitoring permitted the evaluation of temporal and
+
+**** *id_062 *cid_1 *ano_2015
+to outsiders and restrictions on external hunters are concerns shared by the local population and the reserve management agencies such data and understanding are crucial to the management of protected areas in the brazilian amazon where governance is often limited
+
+**** *id_092 *cid_1 *ano_2022
+citizen_science is a growing field that has the potential to better integrate demands and concerns of citizens into research projects through participatory methods and its approach can contribute to large_scale monitoring projects in this case study article we share and discuss
+
+**** *id_092 *cid_1 *ano_2022
+methods used to promote participant engagement in a pilot initiative of the citizen_science for the amazon project the overall project collects information on fisheries through an app and its upload tool the pilot initiative was implemented in the main stem area
+
+**** *id_092 *cid_1 *ano_2022
+of the amazon river in brazil from 2018 to 2019 we worked with 26 target groups engaging participants in sessions to use and evaluate the app participants are residents of local communities riverine people with rich knowledge of natural resources and
+
+**** *id_092 *cid_1 *ano_2022
+with specific conservation concerns fishing is an important source of income and nutrition and fishery management strategies are a way to access and strengthen land rights engaging local communities in citizen_science requires specific approaches to promote dialogue between different types of
+
+**** *id_092 *cid_1 *ano_2022
+knowledge systems we present an overview of our participatory strategies and use qualitative data from our monitoring to analyze outcomes our key recommendations include recognizing traditional knowledge holders including local interests and upgrading tools according to these interests using communication strategies
+
+**** *id_097 *cid_1 *ano_2022
+cities must develop actions that reduce flood risk in the face of extreme rainfall events in this study the dynamic resilience of the gregorio catchment sao_carlos brazil was assessed the catchment lacks environmental monitoring and suffers from recurrent floods the resilience
+
+**** *id_097 *cid_1 *ano_2022
+curves were made considering the water depth in the drainage system as the performance index obtained by simulations with swmm and hec_ras the calibration of the flood extension was performed using citizen_science data the contribution to increasing the dynamic resilience by
+
+**** *id_097 *cid_1 *ano_2022
+implementing decentralized low impact development lid practices was also evaluated for this purpose bioretention cells were added to the swmm simulations the resilience curves were then calculated for the current and future climate scenario with and without lid for return periods
+
+**** *id_097 *cid_1 *ano_2022
+of 5 10 50 and 100 years and duration of 30 60 and 120 min intensity_duration_frequency curves idfs updated by the regional climate model miroc5 for 2050 and 2100 were used the results showed a significant improvement in the resilience of
+
+**** *id_097 *cid_1 *ano_2022
+the system for light storms and the current period due to lid practice interventions efficiencies were reduced for moderate and heavy storms with no significant drops in floodwater depth and resilience regardless of the scenario
+
+**** *id_118 *cid_1 *ano_2023
+seahorses to colonize new areas and tolerate extreme conditions as well as the importance of partnerships with citizen scientists to expand ecological knowledge
+
+**** *id_134 *cid_1 *ano_2023
+as the most abundant taxa we highlight the importance of citizen_science and natural history collections in better understanding biodiversity furthermore our data obtained from local collectors underscore the need for environmental education programs and collaboration between researchers and local decision_makers to raise awareness and reduce conflicts between people and snakes in the region
+
+**** *id_151 *cid_1 *ano_2023
+that is incorporated in the production of knowledge this study highlights the effectiveness of collaborative research through a network of volunteers who play an important role in obtaining data on the occurrence of cetaceans in coastal waters of the state of
+
+**** *id_158 *cid_1 *ano_2021
+previously been mentioned in published articles and that the approach used is efficient in its spatial and temporal aspects the successful development of citizen_based monitoring programs depends on the approximation of the academic community and the commitment of dive operators the
+
+**** *id_158 *cid_1 *ano_2021
+diver plays a critical role within this process providing valuable information which can be used to confirm the engagement of common citizens and also to track the spread of non_native marine species
+
+**** *id_160 *cid_1 *ano_2017
+building national people_centered early warning systems is strongly recommended by the united nations international strategy for disaster reduction most of the scientific literature is critical of the conventional view of early warning systems as a linear model with a top_down approach
+
+**** *id_160 *cid_1 *ano_2017
+in which technological features are given more attention than human factors it is argued that early warning systems should be people_centered and used for risk prevention with an emphasis on resilience rather than only being triggered when a hazard occurs however
+
+**** *id_160 *cid_1 *ano_2017
+both the united nations international strategy for disaster reduction and the literature fail to say how a people_centered early warning system should be built and what steps are needed to put early warning systems into effect this article examines the obstacles
+
+**** *id_160 *cid_1 *ano_2017
+and measures required to promote people_centered early warning systems with a focus on the situation in brazil after assessing the institutional vulnerability of early warning systems we analyze some measures that can be taken to reduce institutional vulnerability based on experiences
+
+**** *id_160 *cid_1 *ano_2017
+with a participatory citizen_science educational project that involved high school students some guidelines are developed for adopting a bottom_up approach towards achieving the 4 elements of early warning systems risk knowledge monitoring communication of warnings and response capability with the help of school curricula
+
+**** *id_171 *cid_1 *ano_2016
+participatory map was constructed by memory approximately 35 years ago providing cartography of memory with local residents the second map was a photo interpretation used as reference to an aerial photograph monochrome 1980 participatory mapping has made use of geographic information
+
+**** *id_171 *cid_1 *ano_2016
+systems technologies and techniques of cartography and it can be understood as a chance of rescuing traditional knowledge as for the results visually comparing the maps differs on the number of classes while the participatory map showed 10 classes of land
+
+**** *id_171 *cid_1 *ano_2016
+uses the map of photo interpretation showed only 4 classes together the 2 maps expand the vision and enable a more complete mapping of the studied site
+
+**** *id_179 *cid_1 *ano_2021
+citizen_science is a process that engages members of the public in the collection and interpretation of scientific data in collaboration with scientists it is especially useful for monitoring biodiversity over extended periods and at larger scales than most researchers can cover
+
+**** *id_179 *cid_1 *ano_2021
+in these fragments and at the same time to assess the feasibility of developing a more systematic citizen_science program in the future we visited 54 landowners within 6 km of the reserve 49 of which agreed to participate by sharing their
+
+**** *id_181 *cid_1 *ano_2023
+sea turtles spend most of their life cycle in foraging grounds research in developmental habitats is crucial to understanding individual dynamics and to support conservation strategies one approach to gathering information in foraging grounds is the use of cost_effective and non_invasive
+
+**** *id_220 *cid_1 *ano_2023
+but the engagement of taxonomists is strongly recommended to increase the correct identification of species
+
+**** *id_234 *cid_1 *ano_2020
+register knowledge based on local perceptions as well as valuing knowledge and approaching the current discussion about intellectual property is a global concern
+
+**** *id_237 *cid_1 *ano_2013
+public participation in the management of water resources is gradually being incorporated into environmental monitoring programs however effective performance depends on the applicability of the methods and on the scope of public enrollment because of the complexity of the local ecological
+
+**** *id_237 *cid_1 *ano_2013
+knowledge acquired to support the process this study aimed to evaluate the relationship between local ecological knowledge and scientific knowledge with an emphasis on water quality social and natural science methods were used the study involved a conservation unit located in
+
+**** *id_237 *cid_1 *ano_2013
+scientific knowledge was not completely specified the study identified several features associated with water quality this result provided a preliminary approach to the understanding of water quality we suggest that future studies include additional variables potentially related to water quality and
+
+**** *id_237 *cid_1 *ano_2013
+that such studies also incorporate temporal perspectives the addition of local ecological knowledge to scientific knowledge can indeed furnish a more complete understanding of the management and conservation of a natural system
+
+**** *id_253 *cid_1 *ano_2022
+many maritime disasters lead to oil pollution which undermines ecosystem balance human health the prosperity of countries and coastal areas across borders and livelihoods of people this is a problem that affects the whole world governments must strive to ensure that
+
+**** *id_253 *cid_1 *ano_2022
+operations in the marine environment are safe and avoid oil pollution by adopting methods that anticipate future scenarios to mitigate the effects of this pollution when it occurs this study investigates a method of managing contaminated coastal areas aiming to contribute
+
+**** *id_253 *cid_1 *ano_2022
+to the management of the environmental crisis caused by disasters through the use of online collaborative mapping by volunteer collaborators volunteer collaborators have been sending georeferenced data and photographs of locations affected by pollution this information is processed and printed on
+
+**** *id_253 *cid_1 *ano_2022
+contribute as a participatory monitoring tool during and after oil spills promoting the oriented preservation of marine ecosystems through citizen_science
+
+**** *id_269 *cid_1 *ano_2022
+the increase in the scale and intensity of the overexploitation of territories and water resources are intertwined as a basis for capital accumulation after the approval of the new basic sanitation law in brazil law no 14 026 2020 which leaves
+
+**** *id_269 *cid_1 *ano_2022
+the water management in the hands of the private sector and further weakens indigenous rights water also became valued on wall_street stock exchange promoting its speculation concentration and capitalization it is in this scenario that in brazil as well as in
+
+**** *id_269 *cid_1 *ano_2022
+between researchers and one of the political_spiritual leaders mbya_guarani recognizing that native peoples are essential for the conservation of nature we consider that with their territorial rights ensured guaranteeing the reproduction of their livelihoods the maintenance of the vital cycles of the planet such as the water cycle will be also guaranteed
+
+**** *id_272 *cid_1 *ano_2014
+existing trade routes our study aimed at describing the invisible bushmeat trade using a participatory monitoring protocol in leticia and puerto_nariño in colombia tabatinga benjamin constant and atalaia_do_norte in brazil and santa rosa and caballococha in peru the monitoring system included
+
+**** *id_272 *cid_1 *ano_2014
+2 key levels of the market chain hunters and market traders with the support of our research team the hunters and traders self monitored their activities during 60 days and 20 days respectively during 2 hydro_climatic periods our study shows that
+
+**** *id_284 *cid_1 *ano_2019
+and the disease hot_cold system the route of administration and dosage the preventive uses of the plants and the influence of other factors such as the sun the moon and dew the participatory approach is useful for gaining insight on the
+
+**** *id_287 *cid_1 *ano_2020
+dengue is increasing in its global presence with an estimated 4 billion people at_risk of infection in at least 128 countries despite the promising results of ecohealth and community mobilization approaches to aedes reduction more evidence of their efficacy on reducing
+
+**** *id_287 *cid_1 *ano_2020
+of this study will help develop evidence_based vector control programs in brazil and also in other countries struggling with aedes transmitted diseases
+
+**** *id_288 *cid_1 *ano_2023
+the utility of widespread technology use in tracking and documenting wildlife such initiatives are especially beneficial for mapping the distribution of rare endemic or endangered reptiles therefore we advocate for more citizen_science initiatives near protected areas involving local communities we provide
+
+**** *id_289 *cid_1 *ano_2021
+of research and citizen_science data matched with collaborative designed surveys that count parrots at their non_breeding roosts are essential for an appropriate assessment of the status of the species as well as for examining the outcome of conservation actions
+
+**** *id_002 *cid_2 *ano_2022
+in these circumstances the understanding of how these conflicts are lived at a subjective level can support studies that are wondering about the mechanisms of how social conflicts get under the skin
+
+**** *id_009 *cid_2 *ano_2021
+a reference for decision makers in implementing similar programs around the world and to contribute to the existing body of knowledge on the subject
+
+**** *id_026 *cid_2 *ano_2021
+management potentially threatening the sustainability of this livelihood supporting activity this study assesses the combination of different data collection methods and of including published data in the analysis of the spatial dynamics we examine crab fisheries in 2 sustainable use protected
+
+**** *id_026 *cid_2 *ano_2021
+areas as a case study to understand use patterns as indicated by a specific combination of mapping methods mangrove crab fishing grounds were mapped by overlaying gatherers of crab tracked routes with maps produced during participatory mapping centered interviews information from
+
+**** *id_026 *cid_2 *ano_2021
+global positioning system tracking is relatively time and resource consuming incorporating some global positioning system tracking into participatory mapping helps overcome a downside of this type of mapping for example lack of geographical precision and identifies information that can be accessed
+
+**** *id_026 *cid_2 *ano_2021
+through participatory techniques this highlights the importance of linking different approaches in order to understand small_scale fisheries spatial dynamics
+
+**** *id_029 *cid_2 *ano_2018
+community_based management and participatory monitoring of natural resources have been advocated as better strategies because they are cheaper than externally driven alternatives and promote pro_environmental behaviours however the successful implementation and sustainability of such initiatives depends on resource willingness of users
+
+**** *id_029 *cid_2 *ano_2018
+to engage some studies claim that resource users will only participate and invest their time in management when the financial benefits received exceed the costs however evidence suggests that people cooperate and may volunteer even when not directly rewarded we evaluated
+
+**** *id_029 *cid_2 *ano_2018
+whether economic benefits earned from resource exploitation or cooperative behavior better explained the likelihood of people voluntary participation in monitoring we studied an amazonian forest community in brazil who harvested and traded a commercially important non_timber_forest_product and gathered data using the
+
+**** *id_029 *cid_2 *ano_2018
+following procedures a survey applied to 166 adults in order to estimate the dependence of people non_timber_forest_product cooperative behaviour and intention to engage in monitoring tasks and the implementation of pilot monitoring tasks to observe who participated based on mixed_effects regressions
+
+**** *id_029 *cid_2 *ano_2018
+the results indicated that both factors can predict intended and actual participation although cooperative behaviour was a stronger and more consistent predictor thus fostering community cooperation may outcompete financial benefits in ensuring engagement in natural resource management
+
+**** *id_043 *cid_2 *ano_2015
+indigenous lands in the brazilian amazon intend to guarantee indigenous rights and conserve forests although many do not correspond to the territorial needs of people and may not effectively preserve wildlife most indigenous people rely on game for subsistence and the
+
+**** *id_043 *cid_2 *ano_2015
+spatial distribution of hunts and prey determine hunting sustainability and wildlife conservation i examined the kaxinawa hunting territory dynamics through the participatory monitoring and mapping of 10 indigenous lands the kaxinawa are central place foragers whose ideal hunting territories have a
+
+**** *id_043 *cid_2 *ano_2015
+villages these findings provide objective standards for titling indigenous lands and for improving wildlife management within these lands
+
+**** *id_054 *cid_2 *ano_2020
+importance the fishers stated that their main difficulties were transporting shellfish health problems low price and lack of buyers during winter they would like to see the implementation of a fishery closure subsidized by unemployment insurance we suggest that implementing management
+
+**** *id_054 *cid_2 *ano_2020
+measures in conjunction with fishers input would be more effective than decisions based on scientific evidence alone
+
+**** *id_056 *cid_2 *ano_2017
+harvesting and trading non_timber_forest_products is advocated as a win_win strategy for conservation and development yet it can produce negative ecological and socioeconomic impacts hence monitoring exploitation outcomes is essential and participatory monitoring has been suggested to be the most suitable approach
+
+**** *id_056 *cid_2 *ano_2017
+among possible approaches participatory monitoring is preferred because it is likely to increase awareness of people and beliefs regarding impacts or potential impacts thus inducing behavioral changes although the evidence in this regard is contradictory we therefore evaluated whether the beliefs
+
+**** *id_056 *cid_2 *ano_2017
+of people about the potential ecological and socioeconomic impacts of non_timber_forest_product exploitation increased their likelihood of volunteering to monitor we studied a community of forest inhabitants in the brazilian amazon who harvested and traded a commercially important non_timber_forest_product 2 methods of
+
+**** *id_056 *cid_2 *ano_2017
+data gathering were employed a survey of 166 adults 51 households to evaluate the beliefs of people and their stated intention to engage in 4 different monitoring tasks and second 4 pilot monitoring tasks to evaluate who actually participated based on
+
+**** *id_056 *cid_2 *ano_2017
+mixed_effects regressions the results indicated that beliefs regarding both types of impacts could predict participation in certain tasks although gender age and schooling were occasionally stronger predictors on average people had stronger beliefs about potential socioeconomic impacts than about potential ecological
+
+**** *id_056 *cid_2 *ano_2017
+impacts with the former also predicting participation in ecological data gathering this finding reinforces the importance of monitoring both types of impacts to help achieve the win_win outcomes originally proposed by non_timber_forest_product trade initiatives
+
+**** *id_072 *cid_2 *ano_2014
+developed these challenges are social mobilization cooperation appropriation and a proactive stance we conclude that a cyclic combination of dialectic and non_dialectic tools can increase participation which though difficult to achieve is nevertheless necessary during the development of this process social
+
+**** *id_072 *cid_2 *ano_2014
+mobilization is a prerequisite whereas a proactive stance the highest level of participation requires continuous effort and the successive deployment of a variety of tools
+
+**** *id_076 *cid_2 *ano_2021
+active involvement of society and engagement in practical conservation measures besides gathering quality scientific information measures such as the implementation of protected areas conservation initiatives on privately owned lands and the direct management of certain species have contributed to reverse this
+
+**** *id_076 *cid_2 *ano_2021
+to return to nature through a reintroduction program led by the brazilian government in association with international partners the active participation of society is also crucial and is bolstered by the recent growth in the number of brazilian birdwatchers currently estimated
+
+**** *id_077 *cid_2 *ano_2021
+habitat protection and restoration on public and private land focussed research and intensive population management drawing on examples from the most threatened atlantic forest endemics conservation organisations local communities government agencies zoos international funders universities and others are working together to
+
+**** *id_078 *cid_2 *ano_2020
+participatory approaches to fisheries management are gaining increasing support from researchers non_governmental organizations and governments in latin america and different forms of participatory monitoring have been implemented over the last few decades among several advantages these initiatives allow incorporation of the
+
+**** *id_078 *cid_2 *ano_2020
+knowledge of fishers on ecology fishing practices social aspects markets regulations into different stages of management in this paper we analyze key features of participatory monitoring programs in small_scale coastal fisheries in south america argentina brazil chile and uruguay through a
+
+**** *id_078 *cid_2 *ano_2020
+literature review complemented by expert opinion our review considered the fisheries and variables monitored objectives duration institutional context of the monitoring programs and factors that affect the extent of the participation of the fishers and the incorporation of the knowledge of
+
+**** *id_078 *cid_2 *ano_2020
+the fishers we found 14 case studies described in the literature most of which correspond to benthic fisheries most cases focused on ecological and_or catch and effort variables few initiatives included social variables initiatives were mainly driven by researchers in partnership
+
+**** *id_078 *cid_2 *ano_2020
+with fishers and other stakeholders under formal or informal institutional arrangements institutional arrangements were largely responsible for the effectiveness of participation in most cases participation of the fishers in monitoring was fostered as a component of a broader participatory co_management approach
+
+**** *id_078 *cid_2 *ano_2020
+despite the challenges participatory monitoring approaches are gaining traction in south america receiving significant support from researchers in most cases and from non_governmental organizations in some cases increased governmental support for implementing and sustaining long_lasting participatory monitoring programs would strengthen monitoring initiatives that emerge locally
+
+**** *id_093 *cid_2 *ano_2020
+while much of the literature on social resilience is concerned with how cities overcome shocks to the urban system much less is known about the strategies of survival and adaptation among its poorest residents we argue that residents in poor often
+
+**** *id_096 *cid_2 *ano_2019
+the increase in floods and flash floods over the last decades has motivated researchers to develop improved methodologies for flood risk prevention and warning flood forecasting models available today have evolved technologically but are subject to limitations due to the lack
+
+**** *id_096 *cid_2 *ano_2019
+of data and limited community participation this paper presents the hydrological alert model with participatory basis model an approach for integrating water level data reported by citizens which has the advantage of being inexpensive and potentially highly available with traditional data
+
+**** *id_096 *cid_2 *ano_2019
+to improve flood forecasting the model assimilates spatio_temporal water levels measured in the field when they are available through a real time estimator we added random perturbations of up to 10 and 15cm to those data using the monte carlo method
+
+**** *id_096 *cid_2 *ano_2019
+to mimic the uncertainty in citizen_science data collection applying the hydrological alert model with participatory basis model for urban nested_scale catchments in brazil shows significant improvements in flood simulations when field data was assimilated even considering the volunteered data uncertainty capability
+
+**** *id_096 *cid_2 *ano_2019
+to update simulations in more than one point in the sem_distributed hydrological model by a regionalization method and flood hazard indexes and their uncertainties show better estimations using field data for updating
+
+**** *id_098 *cid_2 *ano_2021
+the biological assessment of rivers their assessment through use of aquatic assemblages integrates the effects of multiple stressors on these systems over time and is essential to evaluate ecosystem condition and establish recovery measures it has been undertaken in many countries
+
+**** *id_098 *cid_2 *ano_2021
+since the 1990s but not globally and where national or multinational monitoring networks have gathered large amounts of data the poor water body classifications have not necessarily resulted in the rehabilitation of rivers thus here we aimed to identify major gaps
+
+**** *id_098 *cid_2 *ano_2021
+been implemented officially at the state or province level in some cases using common protocols or in major catchments or even only once at the national level to define reference conditions australia in other cases biological monitoring is driven by a
+
+**** *id_098 *cid_2 *ano_2021
+specific problem impact assessments water licenses or the need to rehabilitate a river or a river section as in brazil south korea china canada japan australia in some countries monitoring programs have only been explored by research teams mostly at the
+
+**** *id_098 *cid_2 *ano_2021
+catchment or local level for example brazil mexico chile china india malaysia thailand vietnam or implemented by citizen_science groups for example southern africa gambia east africa australia brazil canada the existing large_extent assessments show a striking loss of biodiversity in the
+
+**** *id_098 *cid_2 *ano_2021
+korea most rehabilitation measures have been related to improving water quality and river connectivity for fish or the improvement of riparian vegetation the limited extent of most rehabilitation measures not considering the entire catchment often constrains the improvement of biological condition
+
+**** *id_098 *cid_2 *ano_2021
+yet many rehabilitation projects also lack pre and_or post_monitoring of ecological conditions which prevents assessing the success and shortcomings of the recovery measures economic constraints are the most cited limitation for implementing monitoring programs and rehabilitation actions followed by technical limitations
+
+**** *id_098 *cid_2 *ano_2021
+limited knowledge of the fauna and flora and their life_history traits especially in africa south america and mexico and poor awareness by decision_makers on the other hand citizen involvement is recognized as key to the success and sustainability of rehabilitation projects
+
+**** *id_098 *cid_2 *ano_2021
+thus establishing rehabilitation needs defining clear goals tracking progress towards achieving them and involving local populations and stakeholders are key recommendations for rehabilitation projects large_extent and long_term monitoring programs are also essential to provide a realistic overview of the condition of
+
+**** *id_098 *cid_2 *ano_2021
+rivers worldwide soon the use of dna biological samples and edna to investigate aquatic diversity could contribute to reducing costs and thus increase monitoring efforts and a more complete assessment of biodiversity finally we propose developing transcontinental teams to elaborate and
+
+**** *id_098 *cid_2 *ano_2021
+improve technical guidelines for implementing biological monitoring programs and river rehabilitation and establishing common financial and technical frameworks for managing international catchments we also recommend providing such expert teams through the united nations environment program to aid the extension of biomonitoring bioassessment and river rehabilitation knowledge globally
+
+**** *id_100 *cid_2 *ano_2023
+fishery management in brazil has many challenges including the engagement of fishers building institutional relationships with ngo or university to carry out research and provide key data for managers and strengthening the capacity to articulate effective management strategies policy institutions here
+
+**** *id_114 *cid_2 *ano_2019
+we call for a reconsideration of biodiversity conservation policies and indigenous rights in areas that show enduring legacies of management by indigenous populations
+
+**** *id_116 *cid_2 *ano_2023
+with the main objective of protecting the resident population of guiana dolphins sotalia guianensis after the publication of its management plan a participatory monitoring program for boat_based tourism associated with cetacean watching was launched the monitoring is carried out by the
+
+**** *id_116 *cid_2 *ano_2023
+sightings were made within the protected area limits the results obtained corroborate previous traditional science research carried out in the region but weaknesses in the implementation of participatory monitoring were evident affecting data reliability when seen individually errors in coordinates were
+
+**** *id_121 *cid_2 *ano_2013
+maps and mapping procedures are useful tools for systematic interpretation and evaluation and for reporting of results to management applied to the family health strategy these maps permit the demarcation of the territory and the establishment of links between the territory
+
+**** *id_121 *cid_2 *ano_2013
+their own references which prevent the interplay of information with other cartographic documents and their full use as a tool for evaluation and management the combination of participatory mapping tools associated with geographic information systems applications proposed in this paper represents
+
+**** *id_129 *cid_2 *ano_2013
+with the recyclers mapping acting and drawing methods helped reveal health hazards from collection separation and transportation of recyclable materials major health problems relate to chemical and biological hazards musculoskeletal damage mechanical trauma and poor emotional wellbeing the recent federal legislation
+
+**** *id_129 *cid_2 *ano_2013
+we also suggest that the workspace be ergonomically organized and that public awareness campaigns about selective waste collection are conducted regularly to increase the quality of source separation the introduction of electric hand pushed carts can further reduce health strains this
+
+**** *id_140 *cid_2 *ano_2021
+a worldwide increase in the number of people and areas affected by disasters has led to more and more approaches that focus on the integration of local knowledge into disaster risk reduction processes the research at hand shows a method for
+
+**** *id_140 *cid_2 *ano_2021
+formalizing this local knowledge via sketch maps in the context of flooding the sketch_map tool enables not only the visualization of this local knowledge and analyses of openstreetmap data quality but also the communication of the results of these analyses in
+
+**** *id_140 *cid_2 *ano_2021
+an understandable way since the tool will be open_source and several analyses are made automatically the tool also offers a method for local governments in areas where historic data or financial means for flood mitigation are limited example analyses for 2
+
+**** *id_140 *cid_2 *ano_2021
+certain area or if citizens might have problems with marking their flood experiences in this way an intrinsic quality analysis is incorporated into a participatory mapping approach additionally different paper formats offered for printing enable not only individual mapping but also
+
+**** *id_154 *cid_2 *ano_2013
+marine protected areas created in a top_down approach can be costly and ineffective due to low compliance of resource users conversely employing local knowledge of the users and involving them in decision_making processes could decrease costs and conflicts in addition to
+
+**** *id_154 *cid_2 *ano_2013
+year in these 3 villages where participatory mapping and group interviews with fishers were also conducted to determine their opinions regarding management and how they thought it should be undertaken management measures should not be equivalent across the whole region as
+
+**** *id_154 *cid_2 *ano_2013
+supported by the sampling of fish landings the fishers were not opposed to management and no_take reserves but would make some changes in the current design of these measures if it were up to them based on these data a few
+
+**** *id_154 *cid_2 *ano_2013
+changes were indicated in the design of these areas that would likely reduce the conflict between fishers and enforcement agencies this kind of approach could be used as a framework for adapting conflictive marine protected areas or to support the establishment of new ones where fisheries are relevant
+
+**** *id_162 *cid_2 *ano_2017
+sea level rise poses a range of threats to natural and built environments in coastal zones around the world assessment of the risks due to exposure and sensitivity of coastal communities to coastal flooding is essential for informed decision_making strategies for
+
+**** *id_162 *cid_2 *ano_2017
+governments may decide between adaptation options associated with sea level rise projections metropole developed a participatory approach in which public actors engage fully in defining the research problem and evaluating outcomes using a case study of the city of santos in
+
+**** *id_162 *cid_2 *ano_2017
+brazil metropole developed a method for evaluating risks jointly with the community comparing no_action to adaptation scenarios at the core of the analysis are estimates of economic costs of the impact of floods on urban real estate under sea level rise
+
+**** *id_167 *cid_2 *ano_2014
+marine protected areas are being created worldwide and are important tools for conservation and fisheries management however the impact of marine protected areas on artisanal fishing communities is still poorly understood in this research we sought to understand the perceptions of
+
+**** *id_167 *cid_2 *ano_2014
+area management plan but lack of compliance is a perceived constraint data also show that local ecological knowledge is important to support the monitoring and evaluation of marine protected areas
+
+**** *id_180 *cid_2 *ano_2017
+the 2005 international health regulations established parameters for event assessments and notifications that may constitute public health emergencies of international concern these requirements and parameters opened up space for the use of nonofficial mechanisms such as websites blogs and social networks
+
+**** *id_180 *cid_2 *ano_2017
+and technological improvements of communication that can streamline the detection monitoring and response to health problems and thus reduce damage caused by these problems specifically the revised international health regulations created space for participatory surveillance to function in addition to the
+
+**** *id_180 *cid_2 *ano_2017
+traditional surveillance mechanisms of detection monitoring and response participatory surveillance is based on crowdsourcing methods that collect information from society and then return the collective knowledge gained from that information back to society the spread of digital social networks and wiki_style
+
+**** *id_180 *cid_2 *ano_2017
+knowledge platforms has created a very favorable environment for this model of production and social control of information the aim of this study was to describe the use of a participatory surveillance app healthy cup for the early detection of acute
+
+**** *id_180 *cid_2 *ano_2017
+for users that reported being ill or very ill a screen with a list of 10 symptoms was displayed participatory surveillance allows for the real_time identification of aggregates of symptoms that indicate possible cases of infectious diseases from 12 may through
+
+**** *id_180 *cid_2 *ano_2017
+period the maximum number of users that signed up in one day occurred on 30 may 2014 the day that the app was officially launched by the minister of health during a press conference during this event the minister of health
+
+**** *id_180 *cid_2 *ano_2017
+surveillance through community engagement is an innovative way to conduct epidemiological surveillance compared to traditional epidemiological surveillance advantages include lower costs of data acquisition timeliness of information collected and shared platform scalability and capacity for integration between the population being served and public health services
+
+**** *id_182 *cid_2 *ano_2021
+while coastal management has been recognized as an urgent and strategic process since the 1970s worldwide it is still struggling to show robust outcomes in some countries and even among regions within countries coastal ecological and economic zoning was proposed in
+
+**** *id_182 *cid_2 *ano_2021
+1988 as an integrated environmental and territorial management tool by the brazilian national coastal management plan this paper applied a recently developed methodological framework towards the analysis of coastal ecological and economic zoning implementation processes in the context of the 17
+
+**** *id_182 *cid_2 *ano_2021
+coastal states in brazil the results evidence particularities that may improve coastal management policies and highlights the situation of late consolidation of this management tool with evident asymmetries along the brazilian coast although the coastal ecological and economic zoning is one
+
+**** *id_182 *cid_2 *ano_2021
+of the most enduring initiatives in coastal management in brazil some critical issues still need to be solved such as articulation among sectors of society generation of technical products for society provision of state annual budget laws integration with land territorial
+
+**** *id_182 *cid_2 *ano_2021
+brought to the social actors involved with the coastal management theme seeking to optimize efforts and financial material and human resources aiming for greater effectiveness of what really matters the sustainable development of the coastal zone in brazil
+
+**** *id_185 *cid_2 *ano_2021
+to tackle the social stigma associated with head lice using scientific information and a local traditional remedy as a way to lower the prevalence of head lice in a low resource community a program involving the entire school community and the
+
+**** *id_187 *cid_2 *ano_2021
+poverty already experienced by this population before the pandemic key strategies led by third sector organizations to reduce the spread of the virus to minimize the financial impact of lockdown and to increase emotional support and information on covid_19 were presented
+
+**** *id_197 *cid_2 *ano_2017
+fisheries management is potentially a short_term measure for reducing floodplain fisheries degradation this objective can only be achieved if adequate measures to improve fishery governance and ecosystem conservation are taken the monitoring of fisheries management is likely to be important for
+
+**** *id_197 *cid_2 *ano_2017
+understanding the effectiveness of local rules and the impacts on aquatic biodiversity given that monitoring is the periodic assessment of fish stock characteristics regarding reference data adopting tools and procedures for monitoring at different scales is a challenging task information and
+
+**** *id_197 *cid_2 *ano_2017
+communication technologies have enabled local communities to gather data on key resources in a cost_effective way this article presents a community_based monitoring of fisheries based on smartphones that supports the annual fishing quotas and legal harvest permits procedures the precision of
+
+**** *id_197 *cid_2 *ano_2017
+community_based monitoring data is assessed and a model to integrate these data into a large_scale monitoring scheme examined data collection performance was evaluated at communities in the kaxinawa nova_olinda indigenous territory in the state of acre where fishery management was monitored
+
+**** *id_197 *cid_2 *ano_2017
+the results indicate that voluntary collectors are able to provide data with precision comparable with government agency measurements but at lower cost
+
+**** *id_199 *cid_2 *ano_2015
+and temporal replication integrating local ecological knowledge into monitoring and management is appealing because it can be cost_effective enhance community participation and provide novel insights into sustainable resource use we develop a technique to monitor population depletion of hunted forest wildlife
+
+**** *id_199 *cid_2 *ano_2015
+urban centers has far_reaching impacts on some forest species including severe depletion well over 100km from urban centers we conclude that local ecological knowledge approaches require further field validation but have significant potential for community_based participatory monitoring as well as cost_effective large_scale monitoring of threatened forest species
+
+**** *id_200 *cid_2 *ano_2023
+global change has a significant impact on coastal populations and their reliance on coastal ecosystems and resources this is particularly true for small_scale fisheries in brazil where limited data exacerbates their vulnerability acquiring local user knowledge is crucial to enhancing the
+
+**** *id_200 *cid_2 *ano_2023
+sustainability of small_scale fisheries in rio_formoso northeast brazil a fisher association plays a vital role in conserving coastal ecosystems and raising awareness about anthropogenic activities this study examines various social governance economic and ecological aspects of rio_formoso fisheries focusing on the
+
+**** *id_200 *cid_2 *ano_2023
+anthropogenic activities and conflicts with tourism social challenges such as gender discrimination against fisherwomen and the ongoing struggle for fishers to be included in policy_making decisions further hinder sustainability fisheries this study demonstrates the valuable insights gained from perceptions of the
+
+**** *id_200 *cid_2 *ano_2023
+fishers in a poor data system enabling a preliminary global assessment to identify conflicts social challenges ecological concerns and suitable actors to lead feasible and acceptable policies as conflicts and community concerns can provide opportunities for co_management it is imperative to
+
+**** *id_200 *cid_2 *ano_2023
+operationalise community_based management tools particularly in brazil to alleviate struggles of the fishers in meaningful decision_making involvement
+
+**** *id_202 *cid_2 *ano_2018
+within the distribution of species we suggest that informal management of caiman conducted by distribution residents has guaranteed regional sustainability of the piracatinga fishery in a broader context the current study highlights the potential for participatory research with local populations in
+
+**** *id_202 *cid_2 *ano_2018
+formulating well informed decisions for the conservation of natural resources and economic alternatives focused on the conservation of human natural systems
+
+**** *id_204 *cid_2 *ano_2023
+for local fisheries after analyzing it was possible to correlate the products of participatory mapping with the scientific data available in the literature resulting in the seascape ethnomap 9 seascapes relevant to subsistence fisheries were identified the mapping of seascapes and
+
+**** *id_213 *cid_2 *ano_2018
+a disproportionately large effect on population viability thus management of areas used during critical stages of the life cycle of rays is crucial to their conservation
+
+**** *id_214 *cid_2 *ano_2021
+ecosystem_based disaster management focuses on conservation or restoration of ecosystem services provided by healthy ecosystems to be put into practice this approach requires the engagement of different social actors in collaborative processes that reduce the risk of disasters in this research
+
+**** *id_215 *cid_2 *ano_2023
+although artisanal fisheries are a source of livelihood for millions of people worldwide the lack of monitoring makes it difficult to assess under which contexts this practice is sustainable this is critical when it comes to endangered species such as seahorses
+
+**** *id_215 *cid_2 *ano_2023
+factors including the absence of surveillance by governmental agencies low fisher awareness and high trade value of seahorses in parallel markets the findings of this study may facilitate the inclusion of local stakeholders in monitoring managing and protecting these endangered species that remain the focus of an active fishery sector
+
+**** *id_216 *cid_2 *ano_2023
+analysis of small_scale inland fisheries is often highly dispersed and tends not to reflect the true magnitude of their contribution to society this is partly due to the insufficient attention given to this sector by the relevant authorities in addition to
+
+**** *id_216 *cid_2 *ano_2023
+also indicate that participatory monitoring can help to overcome knowledge gaps and provide a database that is readily applicable to management needs at both local and regional scales as brazil is one of few nations that no longer have a national
+
+**** *id_216 *cid_2 *ano_2023
+fishing monitoring program participatory monitoring represents a low_cost solution for the credible and useful data on small_scale fisheries it would thus appear to be extremely worthwhile to invest in the empowerment of communities in order to overcome the historic vulnerability of
+
+**** *id_216 *cid_2 *ano_2023
+the productive sector and the food security of the populations that depend on these fisheries
+
+**** *id_221 *cid_2 *ano_2020
+although multiple studies advocate the advantages of participatory research approaches for ethnoscience few provide solid contributions from case studies that involve residents in all of the project phases we present a case study of a participatory approach whose aim is to
+
+**** *id_221 *cid_2 *ano_2020
+register ethnobotanical knowledge on the use of plants in 2 quilombola communities maroon communities an important biodiversity hotspot in the atlantic forest southeast brazil our aim is to provide tools that will empower decision_making related to sustainable use and management among
+
+**** *id_225 *cid_2 *ano_2021
+a multidisciplinary approach is used to evaluate the vulnerability resulting from extreme rainfall events and to examine how institutional capacities related to prevention and response assist small coastal locations in latin america in coping with extreme rainfall events currently intensified by
+
+**** *id_225 *cid_2 *ano_2021
+climate change the analysis was carried out in brazil dominican republic and mexico at municipality and local scale based on socio_economic and environmental indicators institutional capacity was assessed mainly based on semi_structured interviews with key actors of selected study sites to
+
+**** *id_225 *cid_2 *ano_2021
+obtain empirical information on the level of coordination and cooperation among them social networks to examine the effectiveness of the legal framework and the mechanisms for citizen participation in the decision_making process on the local scale present findings indicate that vulnerability
+
+**** *id_225 *cid_2 *ano_2021
+by site is not directly related to local institutional capacity the key networks of the actors and legal frameworks by country seemed to be sufficient to cope with extreme rainfall events impacts but citizen participation must be reinforced in addition public
+
+**** *id_225 *cid_2 *ano_2021
+spaces are required for sharing discussing and exchanging information to take action regarding the prevention response and adaptation to future impacts of extreme rainfall events
+
+**** *id_231 *cid_2 *ano_2021
+in the wake of the globalization process and the transformations in the telecommunications sector resulting from the productive restructuring the last 10 years in brazil were marked by the significant increase in the number of telemarketing services being provided by outsourced
+
+**** *id_233 *cid_2 *ano_2023
+and 6 feasible improvements were defined the successful implementation of said improvements led to the acquisition of knowledge by small producers who received financial returns an increase in the amount paid per liter of milk this research shows that through interdisciplinarity
+
+**** *id_238 *cid_2 *ano_2021
+fishers ecological knowledge has contributed to studies on the reproduction and migration of fish and marine invertebrates with increasing accessibility to information technologies several surveys have begun to use geographic information systems to access fishers ecological knowledge through participatory mapping scientific
+
+**** *id_238 *cid_2 *ano_2021
+knowledge on migration of fishery resources is fundamental to properly support initiatives for fisheries management however the technologies available to study migration are usually expensive and require several years of sampling our objective was to use geographic information systems to access
+
+**** *id_238 *cid_2 *ano_2021
+chaetodipterus faber and the white shrimp litopenaeus schmitti we interviewed 132 fishers in the estuarine of paranagua complex and its adjacent coastal zone brazil of these fishers 39 participated in the participatory mapping process our results based on fishers ecological knowledge
+
+**** *id_238 *cid_2 *ano_2021
+on ethnoecological research and to understand reproductive migration of these species furthermore these observations could support fisheries management and environmental impact assessment of infrastructure projects
+
+**** *id_244 *cid_2 *ano_2022
+collecting information on reproduction biology to contribute to future conservation management strategies of this cracid which received a recent status of high conservation priority the study was conducted at the protected area of social service of commerce pantanal baia_das_pedras mato_grosso brazil
+
+**** *id_244 *cid_2 *ano_2022
+grid_based design for future camera trapping studies of bare_faced curassow is strongly recommended our study is of biological relevance for conservation management projects since data were collected in an area with low anthropogenic disturbance and intact ecosystem services
+
+**** *id_246 *cid_2 *ano_2013
+while climate change will expose regions to similar impacts the extent of those impacts and effective response at the local level will be determined not only by the sensitivity and vulnerability of the location but also by the capacity of local
+
+**** *id_246 *cid_2 *ano_2013
+groups and individuals including their institutional links social networks and motivation to action in parallel scientific information and research plays a critical role in informing climate change adaptation by providing both an improved understanding of the actual climate risks and response
+
+**** *id_251 *cid_2 *ano_2020
+freshwater small_scale fisheries sustain millions of livelihoods worldwide but a lack of monitoring makes it difficult to check the sustainability of these fisheries we aim to compare and describe participatory research methods used in studies with fishers in the tapajos river
+
+**** *id_251 *cid_2 *ano_2020
+reproduce in addition to providing useful data from many sites in a cost_effective way participatory methods can bring the additional benefit of including local stakeholders in the monitoring management and research activities
+
+**** *id_255 *cid_2 *ano_2020
+predicting future water demands of societies is a major challenge because it involves a holistic understanding of possible changes within sociohydrological systems although recent research has made efforts to translate social dimensions into the analysis of hydrological systems few studies have
+
+**** *id_255 *cid_2 *ano_2020
+infrastructure from authorities we conclude that public knowledge can be used to delineate possible water footprint scenarios and reveal paradoxes in the coevolution of sociohydrological systems on an urban scale
+
+**** *id_280 *cid_2 *ano_2022
+categories are relevant to understand the current stage of citizen_science projects in the brazilian scenario including the essential knowledge areas data collection procedures levels of openness and access to scientific data and the territorial coverage of these projects 24 citizen_science projects
+
+**** *id_280 *cid_2 *ano_2022
+projects is voluntary which may explain the low adhesion to the platform besides its recent launch civis is an essential first_approach tool that enables the understanding of citizen_science in brazil
+
+**** *id_282 *cid_2 *ano_2021
+the need for management at a local scale and participatory monitoring with artisanal fishing communities as a way to ensure access to data on the occurrence and population status in the long term
+

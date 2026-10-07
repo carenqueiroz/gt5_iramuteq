@@ -1,0 +1,960 @@
+**** *id_004 *cid_1 *ano_2022
+the article presents results of a research project aiming to develop theoretical and empirical contributions on participatory approaches and methods of citizen_science for risk mapping and adaptation to climate change in the first part the paper presents a review of the
+
+**** *id_004 *cid_1 *ano_2022
+literature on key concepts and perspectives related to participatory citizen_science introducing the concept of the right to research it highlights the mutual fertilization with participatory mapping methods to deal with disaster situations associated with climate change in the second part the
+
+**** *id_004 *cid_1 *ano_2022
+paper describes and presents the results and conclusions of an action_research developed on the coastline between the states of sao_paulo and rio_de_janeiro brazil in 2017 and 2018 it involved affected communities as protagonists in mapping and managing risks of natural disasters
+
+**** *id_005 *cid_1 *ano_2020
+the paper discusses the possibilities and limits of new infrastructures of data and information geovisualization for sharing and coproduction of knowledge as well as to instrumentalize social intervention on territorial management and development it presents a critical review of the literature
+
+**** *id_005 *cid_1 *ano_2020
+systematizing the key definitions concepts and issues under discussion on the subject then it presents reflections derived from the development of a prototype of a geospatial open data platform as part of an open science action_research in the municipality of ubatuba on the north coast of the state of sao_paulo brazil
+
+**** *id_006 *cid_1 *ano_2021
+the covid_19 pandemic highlights the possibilities limits and new challenges for open science this article presents the results of research that sought to contribute to the understanding of the role of citizen_science one of the axes of open science to deal
+
+**** *id_006 *cid_1 *ano_2021
+with issues posed by the pandemic in addition to a literature review the study involved identification and categorization of these citizen initiatives in brazil during the covid_19 outbreak mutual learning can be seen between citizen_science approaches and participatory actions to reduce
+
+**** *id_007 *cid_1 *ano_2022
+many studies have shown the positive and negative impacts of feeding wild birds using feeders however none of them considered case studies in brazil in 2020 social isolation measures imposed by covid_19 boosted interest of brazilians in bird feeders encouraging a
+
+**** *id_007 *cid_1 *ano_2022
+group of birders to create an event called janelives to broadcast simultaneous live images of feeders across the country using the structure of janelives and relying on volunteers we investigated which species visit brazilian bird feeders and discussed the effectiveness of
+
+**** *id_007 *cid_1 *ano_2022
+over the events but the number of online birders was not affected ecolodges and parks that broadcasted their feeders received new clients afterwards the events generated social interaction and pragmatic discussions about the usage of feeders indicating that our citizen_science initiative has potential for future research
+
+**** *id_032 *cid_1 *ano_2019
+this paper presents the research and artistic practice of the ecoarte group ufba brazil focusing on projects that work especially with seas and rivers they are immersions in nature that seek to discuss and reflect on our territory place and how
+
+**** *id_032 *cid_1 *ano_2019
+we represent it in maps and artistic works the results of these experiences in nature are as diverse as possible interactive installations citizen_science environmental sensors interactive online mapping artistic residence on a sailboat audiovisual performance island walks and audiovisual cartography it
+
+**** *id_032 *cid_1 *ano_2019
+is the report of an empirical artistic theoretical research in search of an environmental aesthetic
+
+**** *id_034 *cid_1 *ano_2023
+southwestern usa southwestern bolivia northeastern brazil and mexico baja california the bioregionalization proposed shows biogeographic boundaries specific to cacti and can thereby aid further evolutionary biogeographic and ecological studies by providing a validated framework for further analyses this classification builds upon
+
+**** *id_046 *cid_1 *ano_2023
+is one of the guiding principles of monitora program in this case study we describe how citizen participation occurs in various stages of the monitora program including planning data collection interpretation and discussion of results aspects that are crucial for a
+
+**** *id_050 *cid_1 *ano_2017
+the potential impacts of citizen_science initiatives are increasing across the globe albeit in an imbalanced manner in general there is a strong element of trial and error in most projects and the comparison of best practices and project structure between different
+
+**** *id_050 *cid_1 *ano_2017
+initiatives remains difficult in brazil the participation of volunteers in environmental research is limited identifying the factors related to citizen_science success and longevity of projects within a global perspective can contribute for consolidating such practices in the country in this study
+
+**** *id_050 *cid_1 *ano_2017
+we explore past and present projects including a case study in brazil to identify the spatial and temporal trends of citizen_science programs as well as their best practices and challenges we performed a bibliographic search using google scholar and considered results
+
+**** *id_050 *cid_1 *ano_2017
+from 2005_2014 although these results are subjective due to the algorithm and ranking criteria of google scholar we highlighted factors to compare projects across geographical and disciplinary areas and identified key matches between project proponents and participants project goals and local
+
+**** *id_050 *cid_1 *ano_2017
+priorities participant profiles and engagement scientific methods and funding this approach is a useful starting point for future citizen_science projects allowing for a systematic analysis of potential inconsistencies and shortcomings in this emerging field
+
+**** *id_092 *cid_1 *ano_2022
+to promote equitable dialogues and stimulating and fostering networks between citizen scientists by sharing this experience we aim to contribute to future citizen_science projects especially in rural areas in the global south
+
+**** *id_120 *cid_1 *ano_2021
+and control measures are necessary to deal with invasive species with citizen_science proving to be competent for determining the occurrence of species and showing promise in the entire field of ichthyology
+
+**** *id_126 *cid_1 *ano_2023
+citizen_science has established itself as an important approach to the co_production of knowledge and public participation in scientific research combined with digital technologies and online tools the approach has been celebrated as a path toward the democratization of science however only
+
+**** *id_126 *cid_1 *ano_2023
+a few studies have investigated the role digital technologies play in shaping interactions between people and nature additionally the role of context in shaping online and face_to_face participation in citizen_science projects has yet to receive much attention this article takes a
+
+**** *id_126 *cid_1 *ano_2023
+allowing a better understanding of the role of digital technologies and the context framing citizen participation in challenging environments
+
+**** *id_151 *cid_1 *ano_2023
+citizen_science brings together the interest of researchers in obtaining data and the availability of the public to produce it favoring a reciprocal relationship between academia and society this partnership between experts and the lay public allows for the increase of data
+
+**** *id_152 *cid_1 *ano_2018
+citizen_science projects involve ordinary people in scientific research providing new insights and perspectives interested members of the public may contribute valuable information as they learn about wildlife in their local communities this study investigates the spatiotemporal occurrence and distribution of cetaceans
+
+**** *id_169 *cid_1 *ano_2021
+and to compare the folk classification thus obtained with scientific classification systems of caatinga landscapes a combination of semi_structured interviews participatory mapping and guided tours conducted with 51 participants in 10 municipalities allowed the identification of 19 landscape units the comparison
+
+**** *id_171 *cid_1 *ano_2016
+this study searched to know the territory community past lageado grande in the municipality of campo_largo paraná from the production of a participatory map and another map drawn up by the interpretation of an aerial image of the same region the
+
+**** *id_174 *cid_1 *ano_2021
+the access to geolocation on smartphones and tablets has pointed to its potential use in the survey of georeferenced data and as a mapping method replicable by non_specialist users the objective of this article is to present the experience of the
+
+**** *id_174 *cid_1 *ano_2021
+participatory mapping on the action territories of the family health strategy teams in the municipality of santo amaro bahia with global positioning system global navigation satellite system resources and google earth satellite image in the map marker application in this work
+
+**** *id_174 *cid_1 *ano_2021
+aspects of the perception and transcription of spatial elements in the process of digitalization and capnographic updating of these territories are presented workshops were held in the 17 basic health units in order to map the territories of operation micro_areas of
+
+**** *id_174 *cid_1 *ano_2021
+the 104 coininiiniy health agents in this work it is presented aspects of perception and transcription in the process of digitalization and cartographic updating of the 17 basic health units 10 had some cartographic product these pre_existing products contributed to the
+
+**** *id_174 *cid_1 *ano_2021
+spatial correspondence between the territory and the satellite images the identification of the micro_areas was satisfactory however the biggest challenge was to vectorize the polygonal despite that in each team there was at least one professional who stood out and was
+
+**** *id_174 *cid_1 *ano_2021
+able to reproduce the methodology without a mediator the use of geospatial technologies applied to health mapping proved to be viable for the study area and reinforces the importance of training for the autonomy of social actors and the democratization of
+
+**** *id_174 *cid_1 *ano_2021
+these resources in public health strategies obtaining these cartographic bases should support the spatialization of diseases registered in primary care as well as the health management of the municipality
+
+**** *id_176 *cid_1 *ano_2023
+discuss the concept and foundations that citizen_science demands observed in the relationship of shared knowledge production between academia and the bororo indigenous community self_named boe located in meruri in the municipality of general carneiro in the state of mato_grosso brazil this
+
+**** *id_176 *cid_1 *ano_2023
+is a mode of research in which there are no single models and normative uses as the method was built on immersion in the field we understand the bororo community as subjects of sharing inclusion in the field was carried out
+
+**** *id_176 *cid_1 *ano_2023
+to experience the culture involve them in the research and based on the established relationship discover clues about the foundations and concepts that provide the basis for what we call citizen_science in the research we seek to experience culture through dialogues
+
+**** *id_176 *cid_1 *ano_2023
+in 3 ways welcoming the community establishing trust and understanding of the culture between them sharing knowledge on_site based on the objectives presentation of the research and discussions with indigenous people about the feasibility and importance of including them in the
+
+**** *id_176 *cid_1 *ano_2023
+discussions data evaluation return of the analyzes that the data generated and evaluation by the indigenous community of what was produced by the researcher these stages were the foundations of the research during 14 months between 2021 and 2023 during these
+
+**** *id_176 *cid_1 *ano_2023
+stages we held long individual conversations with 14 indigenous people we call these conversations testimony a broad narrative that considers a person as the bearer of the dimension of their collective the data allowed us to understand some fundamental foundations for
+
+**** *id_176 *cid_1 *ano_2023
+what we call citizen_science among these foundations we realize that there is an invitation to experience this invitation from the indigenous community is like a strategy to show that the production of knowledge can be guided by other values that overcome
+
+**** *id_176 *cid_1 *ano_2023
+the dichotomies and hierarchies typical of modern science and not because of this it becomes less valid or true but because it has its local importance in this sense we present experience as the basis for citizen_science made up of the
+
+**** *id_176 *cid_1 *ano_2023
+in the recognition of oneself and others so that there is cognitive justice and the full exercise of citizenship in the scientific field which for the boe means having the autonomy to talk about oneself without the supervision of anyone being
+
+**** *id_176 *cid_1 *ano_2023
+a citizen means being a subject and not an object of research it is producing and having your data recognized in the debate and in major development strategies of society in the economic technological political or social fields
+
+**** *id_195 *cid_1 *ano_2016
+this article aims to build a theoretical and programmatic outlook for the development of ecotourism in the municipal natural park cave in americana state of sao_paulo it seeks therefore to unveil a scenario of tourism potentials in the face of a
+
+**** *id_195 *cid_1 *ano_2016
+political and economical promising development and public planning of tourist activities in the state however full of local challenges in the protection and promotion of its instruments and urban attractions aimed at leisure by means of an action_research a forum for
+
+**** *id_195 *cid_1 *ano_2016
+tourism and local development were pleaded with the public and through participation in the formation of an association for the children were organized some actions to raise awareness and promote the conservation unit however full of local challenges in the protection
+
+**** *id_195 *cid_1 *ano_2016
+and promotion of its instruments and urban attractions aimed at leisure more than 300 photographic records were shared on social networks to give visibility to the attractive and attention to their protection this highlights the need for emergency actions such as
+
+**** *id_195 *cid_1 *ano_2016
+the park a vocation for the practice of tourism with emphasis in leisure time and in memory being a reference to the municipality
+
+**** *id_234 *cid_1 *ano_2020
+ethnobotanical studies that include participatory methods aim to engage residents in different steps to promote the strengthening and perpetuation of local culture and empowerment in making decisions about the use of available environmental resources thus the aim of this project was
+
+**** *id_234 *cid_1 *ano_2020
+55 therapeutic uses these uses were grouped into 12 categories in addition a video and booklet were created data obtained during participatory research show that training local communities in the registration of their own knowledge is feasible and necessary since they
+
+**** *id_241 *cid_1 *ano_2019
+gaps about bird migration in brazil revealing a feasible strategy to overcome some current logistic barriers that preclude advances in south american bird migration studies a currently underexplored research area especially by brazilian researchers
+
+**** *id_247 *cid_1 *ano_2023
+work under 3 sampling methods we also aimed at providing resources to support conservation efforts by analyzing 27 years of climatic data discussing our results also for non_academics and producing scientific outreach and educational material a companion article dealt with the
+
+**** *id_261 *cid_1 *ano_2019
+amid research into the mounting social and environmental threats presented by climate change everyday experiences of young people and knowledges are often overlooked despite being the generation that will be most affected by climate change we present a looping methodology developed
+
+**** *id_261 *cid_1 *ano_2019
+through collaborative work between 2 distinct but complementary research projects wherein young people in the para ba do sul watershed sao_paulo state brazil shared their perspectives on respectively climate_related disasters and the food_water_energy nexus the approach brings together the theoretical framings
+
+**** *id_261 *cid_1 *ano_2019
+of citizen_science and nexus thinking under the aegis of participatory_action_research to identify points of mutual learning in relation to the knowledge action and critique co_produced with young people this looping methodology enables meta_analytic insights into how participatory_action_research looped with other forms
+
+**** *id_261 *cid_1 *ano_2019
+of action_oriented research can enable young people and other protagonists to articulate and act upon the complex multi_scalar processes that characterise what it means to live in uncertain social political and environmental times
+
+**** *id_269 *cid_1 *ano_2022
+south america the abundance the quality and the rights to this common good are becoming more and more disputed by the developmentalist paradigm these scenarios contribute to the dismantling of water and socio_environmental policies with violent repercussions on indigenous peoples and
+
+**** *id_269 *cid_1 *ano_2022
+their territories but what does water scarcity and loss of access and rights to water mean for indigenous peoples is there space in modern western sciences for the valuable contributions that amerindian perspectives have promoted in the field of knowledge
+
+**** *id_269 *cid_1 *ano_2022
+rethinking the relationship between development politics ecology and nature is urgent our objective is to analyze the current dismantling of brazilian water policies in the south american context seeking to understand the influence of water privatization on indigenous lives especially mbya_guarani
+
+**** *id_269 *cid_1 *ano_2022
+it will also discuss how the contribution of amerindian worldviews can help to build a new paradigm to the conservation of nature especially of the water resources methodologically this article promotes through participant observation and action_research the construction of dialogical relationships
+
+**** *id_272 *cid_1 *ano_2014
+the importance of bushmeat trade in amazonian towns has been very little studied either because it is thought to be insignificant or due to the context of illegality based on preliminary field work to identify the main stakeholders involved and the
+
+**** *id_276 *cid_1 *ano_2021
+the tourism to feeding amazon river dolphin inia geoffrensis is the main attraction of the anavilhanas national park however food supply to wild animals can promote changes in behaviour social structure reproduction and parental care in order to stimulate less impactful
+
+**** *id_287 *cid_1 *ano_2020
+dengue risk is needed the principal research question is to determine if interventions based upon community mobilization reduce the risk of dengue virus infection among children 3 to 9 years old compared to usual dengue control practice in fortaleza brazil the
+
+**** *id_287 *cid_1 *ano_2020
+present study will follow a pragmatic cluster randomized controlled trial crct design with randomization at the census tract level with equal allocation to the 2 arms in each arm there will be 34 clusters of 86 children between 3 to 9
+
+**** *id_287 *cid_1 *ano_2020
+and adult female aedes density the intervention is based upon a participatory health research approach socializing evidence for participatory action sepa where the research evidence is used to foster community engagement and ownership of the health issue and solution following allocation
+
+**** *id_287 *cid_1 *ano_2020
+intervention communities will develop and implement their own solutions that will likely include a wide variety of collective events and media approaches data collection activities over a period of 3 years include household visits for blood collection household surveys and entomological
+
+**** *id_287 *cid_1 *ano_2020
+surveys and qualitative activities including focus groups in_depth interviews and document analysis to evaluate the process acceptability fidelity and sustainability of the intervention study participants will be aware of their assignment and all research staff will be blinded although the intervention
+
+**** *id_287 *cid_1 *ano_2020
+assignment will likely be revealed to field staff through interaction with participants the results of our study will provide evidence on community mobilization as an intervention for dengue control we anticipate that if community mobilization is effective in fortaleza the results
+
+**** *id_002 *cid_2 *ano_2022
+urban mental health studies traditionally search for causal relationships between elements of the city and the prevalence of mental disorders this paper discusses the importance of rethinking the lived urban experience from the perspective of city residents about how the immediate
+
+**** *id_002 *cid_2 *ano_2022
+environment affects their mental health and how people cope with inequalities a participatory_action_research was implemented in a peripheral area of sao_paulo brazil in which volunteers from the territory made phone calls to neighbours to provide emotional support during the covid_19 pandemic
+
+**** *id_002 *cid_2 *ano_2022
+weekly supervision meetings were held between volunteers and researchers to discuss the experiences shared by community counterparts narratives have shown that the lived experience in the city is mediated by multiple layers of urban insecurities these difficulties pressured people to organise
+
+**** *id_002 *cid_2 *ano_2022
+and resist in face of pervasive inequalities as well as to respond to unfolding experiences of social suffering we highlight the potential of participatory methodologies to observe the ways in which subjects face their structural issues and the suffering that emerge
+
+**** *id_003 *cid_2 *ano_2022
+patient associations have emerged as a privileged locus mediating relations between the state and society this study analyzes their role in regenerative medicine in brazil prioritizing patient associations on rare disease the main public engagement policies in health are discussed the
+
+**** *id_003 *cid_2 *ano_2022
+functions of patient organizations and the biosocial relationships established the study is based on a qualitative analysis of documents secondary information from the internet and 12 online interviews to representatives of patient organizations on rare disease content analysis showed that the
+
+**** *id_003 *cid_2 *ano_2022
+patient associations on rare disease studied function differently to patient organizations on specific diseases they follow a partnership model with researchers reformulate treatments and actively promote the implementation of public policy instead patient organizations on specific diseases develop an auxiliary organizational model that mainly provides support to patients and researchers
+
+**** *id_016 *cid_2 *ano_2021
+this study aims to implement community surveillance actions for aedes aegypti vector control in the school environment in the light of health promotion and the ecobiosocial approach this qualitative study addresses the assumptions of action_research data was collected through a short
+
+**** *id_016 *cid_2 *ano_2021
+course coupled with the photovoice technique and the collection was completed with focus groups the empirical data were processed by iramuteq software and submitted to minayo content analysis the research was conducted in 2 municipal schools of fortaleza ceara brazil with
+
+**** *id_016 *cid_2 *ano_2021
+the participation of 55 students the results showed the incentive to reflect participation and socially shared accountability practices in the community surveillance and environmental care actions as vector control allies photovoice proves to be a driver in the alignment of these
+
+**** *id_016 *cid_2 *ano_2021
+themes awakening the cooperative and integrative spirit and its dissemination and continuation are suggested in other schools
+
+**** *id_019 *cid_2 *ano_2022
+this paper relates an interdisciplinary intervention experience developed by professors students of a bachelor of health health professionals and social actors from a community within the pet_saude_graduasus the first part of the project focused on a participatory diagnosis of the health
+
+**** *id_019 *cid_2 *ano_2022
+situation in the city of porto_seguro brazil specifically the text describes workshops carried out with students from a school of the region who pointed out violence as one of the main problems in their territory the workshops were offered as a
+
+**** *id_019 *cid_2 *ano_2022
+strategy for reflection articulation and elaboration of experiences of violence and at the same time as a space for reflection and questioning of practices of discrimination and violation of human rights experienced by young people in their daily life the outcomes
+
+**** *id_019 *cid_2 *ano_2022
+reaffirmed the power of participatory social intervention strategies to produce social and subjective transformations including in relation to problems in the health field
+
+**** *id_021 *cid_2 *ano_2022
+patient and public involvement and engagement sometimes called community engagement and involvement comes as a big challenge but one that can be very helpful for health care professionals and stakeholders in planning better health policies for attending to the main needs
+
+**** *id_021 *cid_2 *ano_2022
+of the community patient and public involvement and engagement involves 3 pillars public involvement public engagement and participation public involvement occurs when members of the general population are actively involved in developing the research question designing and conducting the research public
+
+**** *id_021 *cid_2 *ano_2022
+engagement tells people about new studies why they are important the impact of results the possible implication of the main findings for the community and the possible impact of these new findings in society as well as in the dissemination of
+
+**** *id_021 *cid_2 *ano_2022
+knowledge to the general population participation is being a volunteer in the study our experience with patient and public involvement and engagement to the best of our knowledge the first initiative in brazil is a partnership with the university of birmingham
+
+**** *id_021 *cid_2 *ano_2022
+the university of liverpool and the national institute for health research global health group on atrial fibrillation management focusing on the atrial fibrillation care pathway exploring the important aspects of diagnosis and treatment in the primary care system from a low_middle
+
+**** *id_021 *cid_2 *ano_2022
+income area in sao_paulo the involvement of the public in the research represents a new step in the process of inclusion of all segments of our society based on patient illness and the gaps in knowledge aiming to open new horizons for continuous improvement and better acceptance of research projects
+
+**** *id_022 *cid_2 *ano_2022
+this article presents records of deconstruction in different times spaces places as experienced in a participatory research study developed with the laklano_xokleng people residing in the indigenous territory ibirama in santa_catarina brazil the objective is to disclose some traces of the
+
+**** *id_022 *cid_2 *ano_2022
+paths mishaps and theoretical practical results identified in the study highlighting the role of indigenous subjects along the way we try to keep the research in the perspective of critical interculturality recognizing the potential to promote processes of decolonization as the
+
+**** *id_022 *cid_2 *ano_2022
+subjects who participate in the process acquire knowledge about their context and reinterpret it in interactive practices the experience with participatory research has shown that the commitment to work with populations historically placed in vulnerable conditions by colonial processes should not
+
+**** *id_022 *cid_2 *ano_2022
+be limited to the timespan of an academic work in order not to become an instrument of exploitation
+
+**** *id_023 *cid_2 *ano_2021
+this study sought to understand how students from rural and urban schools identify elements of socio_environmental vulnerability in the school environment in the context of agribusiness in the cities of campo_novo_do_parecis sapezal and campos_de_julio mato_grosso brazil a participatory mapping was conducted
+
+**** *id_023 *cid_2 *ano_2021
+by the design of processes and protective and destructive elements to life in the school environment the most cited processes and protective elements were school trees and agricultural activities near schools the production of cereals and cotton and the generation of
+
+**** *id_023 *cid_2 *ano_2021
+jobs however the spraying of pesticides in the plantation areas near the schools was the destructive process predominantly listed these elements make up the relationships and processes of social and environmental vulnerability of the students and the populations involved in these
+
+**** *id_023 *cid_2 *ano_2021
+schools the contradictory facets both protective and destructive evidenced on agricultural production demonstrate a political dynamic of dispute of the narrative about the positive socio_sanitary_environmental impact of agribusiness and the use of pesticides the construction of the maps has proved to
+
+**** *id_023 *cid_2 *ano_2021
+be a tool that can contribute to the recognition of socio_environmental vulnerabilities and enhance the participation of the people in the surveillance process in health and environment
+
+**** *id_028 *cid_2 *ano_2021
+to analyze school reinclusion of an adolescent cancer survivor before_after participatory health education with adolescents qualitative and participatory research that included data from the medical record of an adolescent rhabdomyosarcoma survivor and talking map dynamics to diagnose the demand for learning
+
+**** *id_028 *cid_2 *ano_2021
+and assess changes the body_knowledge dynamics were applied in the educational intervention in a public school in rio_de_janeiro the adolescent reference case and 9 people 4 teachers and 5 teenagers generated empirical materials which became the content analysis objects strangeness to
+
+**** *id_028 *cid_2 *ano_2021
+changes in an adolescent cancer survivor body image bullying and acceptance were problematized in educational body_knowledge dynamics through relationships between changes and barriers to welcoming the participatory educational process was essential in raising awareness by promoting re_inclusive actions participatory problematizing education contributed to constructing a new collective identity and improvement in school interaction among peers
+
+**** *id_031 *cid_2 *ano_2022
+during the covid_19 pandemic brazilian urban peripheries have been severely affected both by the spread of the virus and by social political and economical dynamics raising concerns about the psychological wellbeing and mental health of the population living in these areas
+
+**** *id_031 *cid_2 *ano_2022
+the pandemic broke out in a context of reduced public spending in social and health policies as well as in a process of erosion of social rights fostering processes of exclusion and highlighting the association between austerity the increase in poverty
+
+**** *id_031 *cid_2 *ano_2022
+and inequality as well as in health and mental health problems indicators this article presents the results of a qualitative participatory research that investigated subjective experiences in a peripheral neighborhood of sao_paulo brazil aiming to understand how contextual dynamics played a
+
+**** *id_031 *cid_2 *ano_2022
+role in shaping mental health experiences during the covid_19 pandemic a multidisciplinary team of researchers worked closely with local volunteers trained to provide emotional support calls to neighbors of the community who signed up for the project this article presents 3
+
+**** *id_031 *cid_2 *ano_2022
+ethnographic cases of women who had their routines strongly affected by the suspension of public and social protection services for the containment of the sars_cov_2 pandemic leading to psychological suffering due to the increased demand of domestic circuits of care we
+
+**** *id_031 *cid_2 *ano_2022
+argue that within a context of austerity the pandemic was remarkably harsh in urban peripheries and specifically for women with caring responsibilities in addition to highlighting the pervasive social protection gap the cases presented in this paper also reveal the unequal
+
+**** *id_031 *cid_2 *ano_2022
+dynamics of the social reproduction work in several layers which falls mainly on the shoulders of women the crisis of care proposed by gender and feminist scholars can contribute to understanding the psychological outcomes of the covid_19 pandemic for these women
+
+**** *id_039 *cid_2 *ano_2014
+this article presents a research report of the first phase of the giant otter project which aims at the establishment of a research base in the pantanal of mato_grosso_do_sul the largest wetland area in brazil and to support the research and
+
+**** *id_039 *cid_2 *ano_2014
+development of community_based conservation tourism having the giant otter pteronura brasiliensis as a flagship species the planning and execution of the project involves the application of the project management body of knowledge good practices the methodology for the study of the
+
+**** *id_039 *cid_2 *ano_2014
+ecology of the giant otter includes community engagement and participation of brazilian and foreign ecovolunteers the engagement of the local community is based on the appreciation of local and regional culture and the dissemination of regional products as well as the
+
+**** *id_039 *cid_2 *ano_2014
+motivation for the establishment of family hostels the social mobilization and environmental education aim to create community_based support for the project and thus create positive rapport with the target species the study area for the project implementation is the pantanal of
+
+**** *id_039 *cid_2 *ano_2014
+by the end of the first phase of the project provided the basis for the implementation of the next phase destined to field research
+
+**** *id_044 *cid_2 *ano_2023
+how the principles of ethnographic research intersected with other principles of collaborative enquiry participatory research and a methodological ethics grounded in the reversal of the conventional relationship between researcher and researched picking up on some of the core defining features of
+
+**** *id_044 *cid_2 *ano_2023
+ethnography as a methodology we examine how these came to inform our understanding of the dynamics of politics power and participation in doing so we reflect on how it is the pliable and improvisational nature of ethnography in practice that contrasts
+
+**** *id_054 *cid_2 *ano_2020
+community and provided easy access to the resource 12ve species of mollusks are collected with anomalocardia flexuosa being the most targeted species with the highest cognitive salience index it stood out due to its relevance in terms of economic and cultural
+
+**** *id_055 *cid_2 *ano_2022
+this study is based on the premise that it is imperative to promote plant domestication processes that foster the biological and cultural diversity of the planet given the model of hegemonic globalization underway is causing damage to sociobiodiversity in several territories
+
+**** *id_055 *cid_2 *ano_2022
+we aimed to build and use in a participatory way and based on the principles of agroecology indicators for social and environmental characterization of matrices of native fruit trees of the atlantic forest biome as a methodology the action_research was adopted
+
+**** *id_055 *cid_2 *ano_2022
+we worked with groups of farmers from the nucleo luta camponesa of the rede ecovida of agroecology from the state of parana brazil some of the results are the selection of 42 matrices of 7 native fruit species and the conclusion
+
+**** *id_060 *cid_2 *ano_2023
+the rivers that flow through densely populated urban_areas suffer the direct influence of anthropic action mainly by the release of waste without proper treatment artisanal fishing plays an important role for riverside communities in several regions of brazil standing out as
+
+**** *id_060 *cid_2 *ano_2023
+to supplement their income and 70 percent have been fishing for more than 10 years the construction of the participatory fishing map showed that the fisherman knows his territory and can contribute significantly to the elaboration of public policies that generate
+
+**** *id_060 *cid_2 *ano_2023
+development for his activity being an active agent of change respecting the environment and improving his life
+
+**** *id_061 *cid_2 *ano_2023
+in brazil more than 3500 children with congenital zika syndrome face difficulties participating in activities of daily living which may be aggravated by health emergencies such as the covid_19 pandemic participation could be defined as the involvement of individuals in daily
+
+**** *id_061 *cid_2 *ano_2023
+life situations and participation restrictions are problems that may arise in involvement in everyday situations to explore the daily lives of children with congenital zika syndrome during the covid_19 pandemic using photographic narratives captured by mothers and discuss possible strategies to
+
+**** *id_061 *cid_2 *ano_2023
+improve participation results in this participatory_action_research 7 young brazilian mothers acted as co_researchers using photovoice to describe the experiences of their children with congenital zika syndrome from 2 to 5 years old also mothers contributed to validate the contents the research
+
+**** *id_061 *cid_2 *ano_2023
+was conducted online and included the following steps pilot study recruitment individualized training sociodemographic interview photovoice training photo taking focus group for contextualization data transcription and analysis and validation of analyses by the mothers content analysis revealed 5 categories that influenced
+
+**** *id_061 *cid_2 *ano_2023
+the participation of the children participation preferences family relationships access to healthcare access to education and social isolation regarding participation preferences mothers reported their children desire to play with peers and family members and have autonomy mothers described the family environment
+
+**** *id_061 *cid_2 *ano_2023
+as a happy peaceful and safe place for the children lack of therapy was perceived to negatively impact the health of children thus treatments were considered essential for child development access to education included accessibility of remote education and a perceived
+
+**** *id_061 *cid_2 *ano_2023
+lack of infrastructure and pedagogical preparation last social isolation due to covid_19 directly affected the daily lives and behaviour of the children interrupting therapies and medical appointments the photos and narratives captured several aspects of the daily lives of children with
+
+**** *id_061 *cid_2 *ano_2023
+congenital zika syndrome impacted by the covid_19 pandemic reinforcing the importance of considering the negative effects of social isolation and offering education and social assistance to promote participation and integral health consistent with a participatory_action_research framework mothers acted as co_researchers and
+
+**** *id_061 *cid_2 *ano_2023
+participated in all stages of the research especially in validating the data analysed by the researchers
+
+**** *id_072 *cid_2 *ano_2014
+in order to understand and take action in complex health and environmental issues we intend to analyse the conditions that are needed for those at risk to participate in research and intervention projects in this study we describe and discuss an
+
+**** *id_072 *cid_2 *ano_2014
+action_research experience carried out with an indigenous community in the brazilian amazon that suffers from serious sanitary problems where cultural aspects in the relationship with the environment and health are particularly relevant different types of tools were deployed and combined and
+
+**** *id_072 *cid_2 *ano_2014
+were subsequently classified according to their dialectic efficacy and ability to both conduct and steer the research and encourage the participation of social actors within a process of feedback even tools that were considered to be non_dialectic proved to be important
+
+**** *id_072 *cid_2 *ano_2014
+sources of feedback we present a research flow as a model of analysis and a framework for implementing action_research in which challenges to the participation of social actors are classified according to their priority through a critical review of the methodology
+
+**** *id_076 *cid_2 *ano_2021
+policy of the current government integrated practical actions backed by good scientific knowledge and civil society participation can help brazil to reverse this alarming title of being the number one country of the americas in the number of endangered birds
+
+**** *id_089 *cid_2 *ano_2021
+from the inquiry about the possibilities of social participation and effective popular interaction in health research this article aims to analyze how the national policy on science technology and innovation in health approaches the communicative dimension for that the official document
+
+**** *id_089 *cid_2 *ano_2021
+of this policy underwent a thematic analysis the communication of science technology and innovation for population features mainly at the scientific and technological advances diffusion section designated under different expressions that although presenting distinct meanings and goals are stated as synonymous
+
+**** *id_089 *cid_2 *ano_2021
+in the document overall the policy considers communication as the upright and unidirectional transfer of content to specific audiences from a sender to a receiver such perspective contrasts with the horizontal and participative perspective of knowledge construction and technological appropriation preconceived
+
+**** *id_089 *cid_2 *ano_2021
+by studies on public engagement in science and scientific literacy considering our political social and cultural context along with the merit of the policy creation process communication proposals must include an effective public participation in science technology and innovation in health respecting the democratic and participative principles postulated by the national health system
+
+**** *id_090 *cid_2 *ano_2021
+this study aims to investigate and reflect on the evidence of a development plan based on the coproduction of the population and the government of a small municipality based on the principles of the slow city movement a descriptive exploratory research
+
+**** *id_090 *cid_2 *ano_2021
+was conducted with a qualitative approach the main guiding strategy of the research consisted of the action_research method carried out in the municipality of rio doce in minas_gerais brazil the results show that the space for dialogue between the population and
+
+**** *id_090 *cid_2 *ano_2021
+the government was relevant and allowed the coproduction of a municipal planning with micro and macro elements and within the slow city principles also traditional practices linked to culture with the use of local environmental resources were included involving popular knowledge
+
+**** *id_090 *cid_2 *ano_2021
+technologies of social origin and the knowledge of the daily life of the community in a project of future desired by the population
+
+**** *id_093 *cid_2 *ano_2020
+informal neighborhoods are faced with chronic shocks or constantly recurring disasters such as floods severe illness or violent police invasions in this paper we draw on focus groups participant_observation and a 989 surve based on a participatory_action_research methodology in cidade_de_deus one
+
+**** *id_093 *cid_2 *ano_2020
+of rio_de_janeiro poorer neighborhoods or favelas we examine how concentrated poverty and violence affect the well_being of the residents and survival strategies we find that residents in these areas address chronic shocks along varying levels of formality or engagement with the
+
+**** *id_093 *cid_2 *ano_2020
+state apparatus or formal economy contentious politics and collectivity from addressing the needs of the individual or kinship network to the neighborhood we conclude that the variability in strategies reflects the ability of the residents to adapt to an uneven and
+
+**** *id_093 *cid_2 *ano_2020
+unjust urban environment poor residents seek the same rights resources and privileges of other urban citizens
+
+**** *id_109 *cid_2 *ano_2023
+participatory research denotes the engagement and meaningful involvement of the community of interest across multiple stages of investigation from design to data collection analysis and publication traditionally people with first_hand experience of psychiatric diagnoses service users and those living with a
+
+**** *id_109 *cid_2 *ano_2023
+psychosocial disability have been seen as objects rather than agents of research and knowledge production despite the ethical and practical benefits of their involvement the state of the art of knowledge about participatory research in mental health brazil is poorly understood
+
+**** *id_109 *cid_2 *ano_2023
+outside of its local context the purpose of this article was to conduct a scoping review of participatory and user_led research in mental health in brazil we identified 20 articles that met eligibility criteria participation in research was not treated as
+
+**** *id_109 *cid_2 *ano_2023
+separate from participation in shaping mental health policy driving care or the broader right to fully participate in societal life and enjoy social and civil rights studies identified several obstacles to full participation including the biomedical model primacy of academic and
+
+**** *id_109 *cid_2 *ano_2023
+scientific knowledge and systemic barriers our extraction charting and synthesis yielded 4 themes power knowledge autonomy and empowerment participation in this context must address the intersecting vulnerabilities experienced by those who are both brazilian and labeled as having a mental illness
+
+**** *id_109 *cid_2 *ano_2023
+participatory research and global south leadership must foreground local epistemologies that can contribute to the global debate about participation and mental health research
+
+**** *id_116 *cid_2 *ano_2023
+growth over the last decades aiming to mitigate the impacts arising from this practice a series of measures have been adopted including the creation of protected areas in 1992 the anhatomirim environmental protection area was set up in santa_catarina southern brazil
+
+**** *id_116 *cid_2 *ano_2023
+within the anhatomirim environmental protection area and adjacent areas this article aimed at systematizing and critically analyzing the data collected in the first 5 years from 2014 to 2018 since deployment of the participatory monitoring program during this period the vessels
+
+**** *id_121 *cid_2 *ano_2013
+its population and health services in this paper the use of maps by the family health strategy in 17 municipalities in northern and northeastern brazil is studied and the process of demarcation and digitization of areas with the participation of teams
+
+**** *id_121 *cid_2 *ano_2013
+is described the survey conducted using questionnaires and discussion workshops showed that difficulties still prevail in reconciling the map drawing produced at the local level with maps produced by other government sectors in general the maps used at local level employ
+
+**** *id_121 *cid_2 *ano_2013
+an alternative to mapping the territory of operations of family health strategy teams as well as a reflection on the concept of territory and operation by the family health strategy
+
+**** *id_123 *cid_2 *ano_2021
+adopting an action_research approach this study presents the findings of an analysis of accountability and social control processes in place between the local government municipal health office and the anapolis brazil municipal health council the different stages of the action_research process
+
+**** *id_123 *cid_2 *ano_2021
+entailed observation of plenary meetings analysis of the composition of the council a group interview with council members and the training of council members the main results were the tabling and approval of a resolution defining a template for accountability reports
+
+**** *id_123 *cid_2 *ano_2021
+and the drafting of a handbook with guidelines on how to read and analyze accountability reports members of the health council were seen to change their views concerning the process of analyzing the reports the new emphasis being on their quality
+
+**** *id_123 *cid_2 *ano_2021
+and on connecting them with the planning information in the light of habermas perspective the authors question the role of training and the intention implicit in the guidelines are they an opportunity for empowerment liberation or on the contrary an instrument of domination and alienation
+
+**** *id_124 *cid_2 *ano_2020
+in this essay we analyze the spatial distribution of covid_19 in the city of fortaleza northeastern brazil using participatory mapping techniques we then evaluate why people are not adequately fulfilling social isolation
+
+**** *id_129 *cid_2 *ano_2013
+although informal waste collectors are sometimes organized in cooperatives their working conditions remain extremely precarious and unsafe the paper discusses the findings of action oriented participatory qualitative research with several recycling groups in the metropolitan region of sao_paulo brazil during workshops
+
+**** *id_129 *cid_2 *ano_2013
+on solid waste management opens new avenues for the inclusion of recycling cooperatives in selective waste collection nevertheless we express the need to consider the distinctive characteristics and vulnerabilities of recycling groups when developing safer work environments in these social businesses
+
+**** *id_129 *cid_2 *ano_2013
+research has produced a better understanding of the work of the recyclers and related health risks the interactive qualitative research methodology has allowed for the co_creation and mobilization of specific knowledge on health and safety in recycling cooperatives
+
+**** *id_133 *cid_2 *ano_2020
+in this article i discuss the democratizing effects of public participation in science and technology various forms of public participation in science and technology have emerged as reactions of civil society or as institutionalized responses of states to science_society conflicts i
+
+**** *id_133 *cid_2 *ano_2020
+distinguish public participation in science and technology into 3 types which i call institutionalized activist and conflictive and at the margins of mainstream science and technology based on a broad literature review and analysis of case studies i examine the participating
+
+**** *id_133 *cid_2 *ano_2020
+actors by identifying their position in the productive structure their form of participation the expert_lay relationship and the constitution of the discussion agenda then i evaluate the democratizing effects of lay participation on the configuration of scientific agendas on the direction
+
+**** *id_133 *cid_2 *ano_2020
+of development of technological trajectories and on the imposition of norms or limits on the use of technology i argue that this typology brings to focus some issues not highlighted in other existing public participation typologies it identifies from a political
+
+**** *id_133 *cid_2 *ano_2020
+economy perspective the position in the productive structure from which the actors participate and distinguishes the democratizing effects of public participation on the production and consumption of science and technology
+
+**** *id_140 *cid_2 *ano_2021
+cities in brazil show the functionalities of the tool and allow the evaluation of its applicability results depict that the fitness_for_purpose analysis of the openstreetmap data reveals promising results to identify whether the sketch map approach can be used in a
+
+**** *id_140 *cid_2 *ano_2021
+group mapping future work will focus on advancing the automation of all steps of the tool to allow members of local governments without specific technical knowledge to apply the sketch_map tool for their own study areas
+
+**** *id_142 *cid_2 *ano_2022
+this work tells a transdisciplinary action_research project experience developed with 70 year class students from a fundamental school of novo hamburgo brazil which the main goal was the integration of different discipline and instrumentation the apprenticeship of a practical misunderstanding scientific
+
+**** *id_142 *cid_2 *ano_2022
+concept the ecological sustainability and implement a socio_environmental action plan with students the natural sciences specific objective was to perform an investigative research project about the population structure of pinus spp and an environmental restoration action of the henrique luiz roessler
+
+**** *id_142 *cid_2 *ano_2022
+ecological interest area at novo hamburgo city at the same time the project also aims to avail a collaborative electronic platform of research support about the biosociomoral cross contents of the violence subject for the entire school community the main pedagogical
+
+**** *id_142 *cid_2 *ano_2022
+dimension results were a school courtyard exotic plant inventory an environmental management action of the pinus elliotti and the plant explosion apprenticeship object yet the main ecological dimension results were the pinus elliotti population structure description and confirmation of the biological
+
+**** *id_143 *cid_2 *ano_2022
+this action_research analyzes the dynamics between the potentials for strengthening and weakening inherent in the social reproduction of young students based on the historical_dialectical materialism particularly on the theory of social determinants of health the analysis considered the universal particular and
+
+**** *id_143 *cid_2 *ano_2022
+singular dimensions of social totality the study was developed in 13 emancipatory workshops during a 5 month period attended by 12 high school students from a public school in the city of sao_paulo brazil the conditions of social reproduction exposed the
+
+**** *id_143 *cid_2 *ano_2022
+family configurations of the participants which suffer from precarious work and unemployment the absence or inconsistency of paternal support and a precarious process of resocialization and sociability the teenagers discussed insecurities and difficulties faced by them in the territories where they
+
+**** *id_143 *cid_2 *ano_2022
+live family conflicts the repercussions of social pressures to face the future the place of school and family in their lives and doubts regarding sexuality and drug use the emancipatory action_research allowed the participants to transcend appearance and demonstrated the essence
+
+**** *id_143 *cid_2 *ano_2022
+of their reality showing that emancipation is based on the understanding of the singular particular and universal dimensions of social relations
+
+**** *id_153 *cid_2 *ano_2021
+to understand the artisanal perception of the fisherwomen about the risks and health problems related to their work as well as to the health promotion actions aimed at their activity action_research conducted with 7 fisherwomen shellfish gatherers of the pacoti river
+
+**** *id_153 *cid_2 *ano_2021
+in eusebio state of ceara brazil participants were interviewed at their home in 2019 the interviews were recorded transcribed and their content examined using discourse analysis our findings indicated that fisherwomen have low education and income levels besides facing precarious working
+
+**** *id_153 *cid_2 *ano_2021
+conditions in an inhospitable environment mangrove although reporting falls fractures injuries drownings and symptoms of work_related musculoskeletal disorders they do not consider that they are exposed to risks they see these accidents as inherent to the production process and do not
+
+**** *id_153 *cid_2 *ano_2021
+perceive their health problems as resulting from the working conditions to which they are subjected they also do not identify the existence of health promotion actions aimed at fisherwomen and shellfish gatherers the situations experienced and reported by the workers indicate
+
+**** *id_153 *cid_2 *ano_2021
+that the local health service is not committed to occupational health yet the brazilian unified health system must advance in health promotion through education surveillance and healthcare aimed at preventing artisanal fishing work_related diseases
+
+**** *id_162 *cid_2 *ano_2017
+public understanding and awareness of the tangible effects of climate change are fundamental in developing policy options a multidisciplinary multinational team of natural and social scientists from the usa the uk and brazil developed the metropole project to evaluate how local
+
+**** *id_162 *cid_2 *ano_2017
+projections through 2050 and 2100 results helped identify broad preferences and orientations in adaptation planning which the community including the santos municipal government co_developed in a joint effort with natural and social scientists
+
+**** *id_165 *cid_2 *ano_2021
+territorial configurations this study seeks to analyze the environmental conflicts that influence the territoriality of artisanal fishermen in the cassuruba complex based on participant observation from 2017 to 2020 semi_structured interviews participatory mapping and focus groups were developed with 37 artisanal
+
+**** *id_165 *cid_2 *ano_2021
+fishermen the main conflicts highlighted were those between types of fishing equipment trawling and gillnets lobster nets and longline and between the local population and development projects including conflicts with the pulp sector and the disruption caused by the collapse of
+
+**** *id_165 *cid_2 *ano_2021
+the fundao dam these conflicts were systematized and analyzed based on category actors scope and arenas of dispute the loss of fishing territory was noted in the interviews and the main form of resistance on the part of the local population
+
+**** *id_165 *cid_2 *ano_2021
+in the face of disputes over resource use and complaints of environmental degradation happens through social movements finally it is necessary that the analysis of environmental conflicts be taken into account when making decisions on local spatial planning
+
+**** *id_180 *cid_2 *ano_2017
+disease outbreaks during the federation internationale de football association world cup 2014 our focus was on 3 specific syndromes respiratory diarrheal and rash related to 6 diseases that were considered important in a mass gathering context influenza measles rubella cholera acute
+
+**** *id_182 *cid_2 *ano_2021
+management policies identification and mitigation of conflicts throughout the territory and its uses foster public participation integration between the technical teams and public spheres and guidance on environmental licensing processes by the states finally it is proposed that the discussion be
+
+**** *id_183 *cid_2 *ano_2020
+we outline preliminary results of an ongoing research project conducted in collaboration with traditional erva mate producers in southern parana and northern santa_catarina brazil the multidisciplinary project includes researchers in the natural and social sciences forest engineers historians rural outreach workers
+
+**** *id_183 *cid_2 *ano_2020
+and farmers and is the result of a long_term engagement with smallholder erva mate producers previous research on forest conservation and use in the region had highlighted the important role smallholder farmers play in maintaining forest cover but knowledge about how
+
+**** *id_183 *cid_2 *ano_2020
+farmers and their families perceive traditional erva mate production systems and understand their environment were needed taking a participatory_action_research approach our goal is to work with communities to cocreate and share knowledge ensuring that the research is based on collectively defined
+
+**** *id_183 *cid_2 *ano_2020
+goals herein we focus on some of the major themes identified through oral history interviews particularly in terms of tensions between smallholder farmers and legal frameworks as well as insecurity in terms of the continuation of traditional agroecological practices and their
+
+**** *id_183 *cid_2 *ano_2020
+importance for the forest the project aims to engage a range of stakeholders and actors and incorporate a variety of perspectives in understanding forest conservation through use in agroforestry and agroecological systems particularly in terms of erva mate production
+
+**** *id_185 *cid_2 *ano_2021
+the prevalence of head lice in poor rural communities and urban slums is estimated to be between 28 percent and 43 percent in brazil respectively children are among the most affected often in clusters within schools we launched a program intending
+
+**** *id_185 *cid_2 *ano_2021
+teachers addressed how to treat head lice and avoid new infestations an affordable solution widely used in traditional brazilian medicine was provided for the ones infested evaluation of the outcome was based on direct observation and was designed as a satisfaction
+
+**** *id_185 *cid_2 *ano_2021
+survey the study complied with the criteria for standards for reporting qualitative research 208 participants including parents and siblings of the school children took part in the program among them 24 percent had head lice with girls representing 85 percent of
+
+**** *id_185 *cid_2 *ano_2021
+cases 74 7 percent of participants infested with head lice were between 4 and 10 years old 55 2 percent of participants infested showed no signs of nits or adult lice after the program this experience suggests that the use of
+
+**** *id_185 *cid_2 *ano_2021
+playful activities associated with a well_known and accessible local product to treat head lice in low_income families gathered a high degree of community adherence and may be an important tool in overcoming health inequalities
+
+**** *id_187 *cid_2 *ano_2021
+this article aims to reflect on the challenges affecting people experiencing homelessness in rio_de_janeiro brazil due the covid_19 pandemic participatory research was carried out to identify data related to sociodemographic profile strategies for survival health and social care support and access
+
+**** *id_187 *cid_2 *ano_2021
+to services during the pandemic the research methodology was co_designed with ngos and people with lived experience of homelessness and involved conducting semi_structured questionnaires with 304 participants in 2020 the results highlighted the worsening of the situation of extreme vulnerability and
+
+**** *id_187 *cid_2 *ano_2021
+the conclusions show the complexity of issues affecting these groups and the need for urgent response from public policies and government support to guarantee their rights dignity and respect during and after the covid_19 pandemic
+
+**** *id_193 *cid_2 *ano_2019
+interviews reports and narratives were adopted as methodological instruments since this research is of a qualitative nature and part of social research in order to reach the central objective of the larger research it was necessary to develop the concept of
+
+**** *id_198 *cid_2 *ano_2023
+the participation of adolescents with cerebral palsy within the community is reduced compared to their peers and is a barrier to their socialization self_determination and quality of life patient and public involvement is a key strategy for successful interventions especially when
+
+**** *id_198 *cid_2 *ano_2023
+involvement of the stakeholders takes place at all stages of the research co_design can be crucial for success as researchers patients with cerebral palsy and their families work together to bring the necessary elements to the interventions to be designed the
+
+**** *id_198 *cid_2 *ano_2023
+objectives will be to co_design an intervention aimed at improving the participation of adolescents with significant motor disabilities within the community in partnership with adolescents with cerebral palsy families and rehabilitation professionals second to assess the feasibility of the co_design process
+
+**** *id_198 *cid_2 *ano_2023
+in partnership with interested parties the study will be based on participatory_action_research and will be held in spain and brazil in both countries the study will be carried out remotely with 9 adolescents aged 12 to 17 years with cerebral palsy
+
+**** *id_198 *cid_2 *ano_2023
+gross motor function classification system levels 4 to 5 their families and 6 health professionals physiotherapists and occupational therapists different dialogue groups will be created to involve adolescents families and health professionals to the research project to manage their involvement in
+
+**** *id_198 *cid_2 *ano_2023
+the co_design process the involvement matrix will be used and according to the involvement matrix phases 4 steps will be included in the research preparation co_design analysis results of the intervention protocol and the feasibility of the study and dissemination of
+
+**** *id_198 *cid_2 *ano_2023
+results partnering with the public to design an intervention to improve participation can bring better results compared to protocols designed only by health professionals in addition it will allow for knowing the needs of adolescents with cerebral palsy in terms of
+
+**** *id_198 *cid_2 *ano_2023
+participation within the community the study will also explore which roles were chosen by all participants and how they felt while actively participating in the process of co_designing an intervention protocol and their own perspectives on the use of the involvement matrix
+
+**** *id_200 *cid_2 *ano_2023
+perceptions of fishers of global change we carried out individual and collective interviews participatory mapping and discourse analysis rio_formoso fisheries stood out by the diversity of their activities gears species habitats leading role of the women and the intense involvement of
+
+**** *id_204 *cid_2 *ano_2023
+seascape mapping is critical to understanding ecosystem services and managing areas with potential for fishing power generation mining and tourism despite advances in marine geophysics the necessary equipment to make underwater cartography can be expensive and requires a certain degree of
+
+**** *id_204 *cid_2 *ano_2023
+specialization in areas with scarce data ethnomapping can be used for the elaboration or complementation of marine cartography in addition it provides information about the nature concepts phenomena and nomenclatures attributed by the local population the aim of this study was
+
+**** *id_204 *cid_2 *ano_2023
+to integrate the knowledge of artisanal fishermen from northeast of brazil into the mapping of seascapes validating the obtained cartography with scientific sampling focus groups were used to promote an open discussion of local knowledge users about seascapes and their importance
+
+**** *id_204 *cid_2 *ano_2023
+fauna captured by indigenous fishermen was similar to that produced from preexisting geology geomorphology and fishing data this validated the methodological protocol and the importance of the participation of local populations in coastal conservation and management activities
+
+**** *id_206 *cid_2 *ano_2022
+cutaneous leishmaniasis is a parasitic skin disease endemic in at least 88 countries where it presents an urgent albeit often neglected public health problem in this paper we discuss our model of decolonial community engagement in the eclipse global health research
+
+**** *id_206 *cid_2 *ano_2022
+program which aims to improve physical and mental health outcomes for people with cutaneous leishmaniasis the eclipse program has 4 interlinked phases and underpinning each of these phases is sustained and robust community engagement and involvement that guides and informs all
+
+**** *id_206 *cid_2 *ano_2022
+activities in eclipse our decolonial approach implies that the model for community engagement will be different in brazil ethiopia and sri lanka indeed we adopt a critical anthropological approach to engaging with community members and it is precisely this approach we
+
+**** *id_206 *cid_2 *ano_2022
+evaluate in this paper the data and material we draw on were collected through qualitative research methods during community engagement activities we established 13 community advisory groups 4 in brazil 6 in ethiopia and 3 in sri lanka we identified 4
+
+**** *id_206 *cid_2 *ano_2022
+overarching themes during a thematic analysis of the data set establishing community advisory groups community advisory groups membership and community representation culturally appropriate and context_bespoke engagement and relationships between researchers and community members during our first period of eclipse community engagement
+
+**** *id_206 *cid_2 *ano_2022
+we have debunked myths for instance about communities being disempowered critiqued our own practices changing approaches in bringing together community advisory groups members and celebrated successes notably fruitful online engagement during a challenging covid_19 pandemic context our evaluation revealed a gap
+
+**** *id_206 *cid_2 *ano_2022
+between the exemplary community engagement frameworks available in the literature and the messy everyday reality of working in communities in the eclipse program we have translated idealistic principles espoused by such community engagement guidance into the practical realities of doing engagement
+
+**** *id_206 *cid_2 *ano_2022
+in low_resourced communities our community engagement was underpinned by such ideal principles but adapted to local sociocultural contexts working within certain funding and regulatory constraints imposed on researchers we conclude with a set of lessons learned and recommendations for the conduct of decolonial community engagement in global health research
+
+**** *id_212 *cid_2 *ano_2021
+healthcare services face difficulties in using structured methods for service design and having patient participation in such processes there are few models on healthcare service design and even less focused on primary health care in the literature therefore this paper contributes
+
+**** *id_212 *cid_2 *ano_2021
+to this domain by presenting the proposal of a co_creative model to design primary health care services the proposed model was constructed based on the study of reference models in primary health care and co_design plan_do_check_act cycle and the experience_based co_design
+
+**** *id_212 *cid_2 *ano_2021
+approach were used to structure the model the resulting model contributes to continuous improvement improvement analysis and registry identification and solution of primary health care real needs from users community participation and empowerment creation of experience focused and patient_centred services the
+
+**** *id_212 *cid_2 *ano_2021
+model use of co_creation enables patients and primary health care staff to understand the needs of each other and challenges and to create appropriate solutions to their communities together and act toward more satisfying services
+
+**** *id_214 *cid_2 *ano_2021
+we analyzed the engagement of social actors in the restoration of coastal ecosystems after the successive arson fires that occurred in 2019 in the serra do tabuleiro state park santa_catarina brazil we collected data through documentary research semi_structured interviews with participants
+
+**** *id_214 *cid_2 *ano_2021
+in an event focused on recovering the burnt areas and participant observation in the elaboration of 2 plans first forest fire fighting contingency plan in the baixada do massiambú and second action plan for ecological restoration of the baixada do massiambú
+
+**** *id_214 *cid_2 *ano_2021
+our results suggest that fires act as a trigger for a process of public engagement involving social actors with different backgrounds motivations and knowledge about the serra do tabuleiro state park the analyzed plans promote inter_scale articulations between organizations aiming the
+
+**** *id_214 *cid_2 *ano_2021
+conservation of ecosystems public engagement is the result of 3 factors investment in training and development of projects for community mobilization worsening of power disputes over projects for the territory and media construction of an image of fires in the amazon associated with the disruption of brazilian environmental policy
+
+**** *id_217 *cid_2 *ano_2023
+policies to achieve a more robust and accurate understanding of the situation we propose bringing academic scientific knowledge and the knowledge of artisanal fishers into dialogue through a participatory research approach participatory processes such as those proposed here and eventually knowledge
+
+**** *id_217 *cid_2 *ano_2023
+co_production not only allow for improvements in environmental management conservation practices and public policy formulation but can also play an empowering role for fishing communities as well as for other rural and indigenous peoples
+
+**** *id_221 *cid_2 *ano_2020
+in the quilombo_fazenda virola bicuhyba cedrela fissilis plinia edulis and tabebuia cassinoides are the species most at risk and will be the focus of phase 4 when a participatory management plan will be carried out additionally we present both challenges and opportunities with the hope that others can learn from our successes and failures
+
+**** *id_222 *cid_2 *ano_2023
+to analyze the implementation strategies for actions for the health of adult men in primary care action_research conducted with 12 adult men and 14 health professionals from a family health unit in the municipality of salvador bahia brazil multiple data production
+
+**** *id_222 *cid_2 *ano_2023
+techniques were employed namely systematic observation semi_structured interviews field diaries and contextualized photography across the action_research stages thematic content analysis and interpretation based on the axes of the national policy for comprehensive men health care were used 3 categories emerged from
+
+**** *id_222 *cid_2 *ano_2023
+the conceptions of men and health professionals health care for men differentiated strategies and lessons learned the culture of the strong unyielding provider man who does not get sick and considers illness as a sign of weakness exacerbates toxic masculinity requiring
+
+**** *id_222 *cid_2 *ano_2023
+a transformation through acknowledging that men are not inherently averse to care but rather they are socially shaped recognizing the institutional barriers became important for the discussion regarding access to health services the action_research challenges and potentialities enabled the elaboration of an action agenda to enhance access and welcoming at the study health unit
+
+**** *id_223 *cid_2 *ano_2023
+to report on the experience of the elaboration process of a service organization protocol for coping with public undergraduate psychological distress of students in the countryside of sao_paulo experience report on protocol production an action_research product carried out according to the
+
+**** *id_223 *cid_2 *ano_2023
+health care and service organization protocol model made possible by remote meetings with 33 professionals linked to the management and services of the health and social assistance departments of the university collective protocol production provided an opportunity for an institutional agreement
+
+**** *id_223 *cid_2 *ano_2023
+on educational therapeutic and support actions to be developed in groups or individually with students with provision for permanent education with civil servants this experience made it possible to list specific actions to face undergraduate psychological distress of students bringing health
+
+**** *id_223 *cid_2 *ano_2023
+professionals closer to those in management promoting the exchange of concepts and practices to resignify and transform the work developed
+
+**** *id_226 *cid_2 *ano_2023
+the integration of archaeology and community engagement in latin america remains a new challenge largely because the multiple social configurations practices and theories intrinsic in each need to be considered instead of creating a unified pattern in brazil there are more
+
+**** *id_226 *cid_2 *ano_2023
+than 16 000 communities of indigenous maroon and traditional membership all with many demands that test the collaborative capacity of researchers seeking a basis for action within a decolonization perspective this paper provides the theoretical background that outlines some benefits of
+
+**** *id_226 *cid_2 *ano_2023
+an affective alliance and collaboration based on the equivalence of knowledge and practices from different epistemes this paper also offers regional cases of the persistence of agroforestry communities that require the re_evaluation of academic and bureaucratic erasure on one side the
+
+**** *id_226 *cid_2 *ano_2023
+tupi guarani of peruibe that manifest interest in recovering the language and practices of their ancestors on the other side the persistence of social and cultural practices that started in indigenous contexts but extended beyond them with people from different places and times joining the communities of women potters
+
+**** *id_231 *cid_2 *ano_2021
+companies this article describes the methodological process of research_intervention on the profile of living working and illness conditions of telemarketers in the state of pernambuco its descriptive analysis is based on the ecosystem health approach centered on the integrated understanding of
+
+**** *id_231 *cid_2 *ano_2021
+human health for constructing action_oriented knowledge the project developed allowed us to propose a diagnosis and start planning interventions to be implemented jointly its participatory approach favored a knowledge based on dialogue practice that strengthens the development of health promoting actions and of a citizen_science based on participatory research
+
+**** *id_232 *cid_2 *ano_2015
+the text analyses the constitutive process of the pedagogical political project of a city department of education located in the state of rio_grande_do_sul brazil emphasizing the contributions of collaborative action_research while posture that feeds the political commitment the critical thinking and
+
+**** *id_232 *cid_2 *ano_2015
+cooperative relations for the establishment of learning communities it articulates the reflections from a meta_analysis of the analytical investigative process itself with the constitution of this project having as protagonists the education professionals who work at the department of education the
+
+**** *id_232 *cid_2 *ano_2015
+findings arising from the analysis of the content of documents of records of observations of the formative meetings in the field diary and of the interviews signal to the following contributions of collaborative action_research for the process in focus the empowerment
+
+**** *id_232 *cid_2 *ano_2015
+and the role of the subjects involved in the construction of the pedagogical political project the reflection on the praxis itself the reconstruction of concepts and the revision of concepts through research action training the possibility of a further incursion of
+
+**** *id_232 *cid_2 *ano_2015
+the investigated phenomenon in so far as it gives continuity to the movement typical spiraled research action we highlight the issue of time of the research because when we crave for transformations it requires a long and constant process of reflection_action_criticism
+
+**** *id_232 *cid_2 *ano_2015
+thus the impacts arising from the action_research are not immediate but expected over time such impacts can become a source of generating new investigations
+
+**** *id_233 *cid_2 *ano_2023
+this research paper aims to use lean 6 sigma tools to handle milk in small brazilian dairy estates the search for efficiency in this process prevails in all productive sectors however it is still not exploited in the dairy chain specifically
+
+**** *id_233 *cid_2 *ano_2023
+by small_scale producers although milking is the main income for many of them in brazil small producers are the main suppliers of the chain and maintaining their competitiveness requires specific actions therefore through the action_research method 4 small producers in the
+
+**** *id_233 *cid_2 *ano_2023
+center west of the state of sao_paulo brazil were involved in identifying problems in their milking management process investigating and implementing practical solutions to this effect lean tools such as flowcharts ishikawa diagrams value stream mapping and plan_do_check_act cycles were employed
+
+**** *id_233 *cid_2 *ano_2023
+positive solutions to problems of different and complex natures such as those in the dairy chain can be obtained
+
+**** *id_235 *cid_2 *ano_2023
+ethnobotanical studies that use the participatory research approach seek to involve the residents of a community in different stages of the study promoting the registration dissemination and strengthening of local knowledge as well as the empowerment of decisions related to the
+
+**** *id_235 *cid_2 *ano_2023
+sustainable use and management of resources using the participatory methodology this study recorded and made a comparative analysis on the use of plants in 2 quilombola communities quilombo_cambury and quilombo_fazenda in the state of sao_paulo after a training on anthropological and
+
+**** *id_235 *cid_2 *ano_2023
+differences were observed in the proportion of native species versus introduced among quilombos for any of the categories of use studied furthermore the innovative methodology used participatory ethnobotany contributed to the empowerment of community members with regard to the use of
+
+**** *id_235 *cid_2 *ano_2023
+their available resources in the environment in which they live while retaining the intellectual property rights over their own knowledge
+
+**** *id_240 *cid_2 *ano_2021
+this paper aims to analyse an initiative of a multidisciplinary group that co_produced guidelines for interventions in a public park under the lens of the multidimensional smart city framework for this analysis we used the action_research method to collectively create solutions
+
+**** *id_240 *cid_2 *ano_2021
+for this city asset with the results it is possible to state that the working group took place as a collective co_production regarding the framework proposal the community represented the mobilising force which contributed to another development of drivers of public
+
+**** *id_240 *cid_2 *ano_2021
+policies whereas the technology aspect had a modest representation as a tool in the group members evaluation the perceived value of collective work stood out the action_research methodology was adequate converging with the co_production and smart cities stages presented in the literature
+
+**** *id_243 *cid_2 *ano_2023
+participatory methods contribute to scientific rigor by highlighting the contextual needs especially of underrepresented populations making them protagonists in the process of social change this article aims to present the application of a participatory research method called community_based participatory research in
+
+**** *id_243 *cid_2 *ano_2023
+a context of social vulnerability in southern brazil it seeks to discuss the challenges and strengths of the method which provides ecological validity for the development of public policies appropriate to the context while empowering the participants the research has been
+
+**** *id_243 *cid_2 *ano_2023
+carried out since 2019 and among the inherent challenges has also faced the difficulties posed by the covid_19 pandemic based on the application of this method in brazil the importance of involving participants throughout the research process has been identified so
+
+**** *id_243 *cid_2 *ano_2023
+that policies are developed to meet the needs of the community and are sustained by those most interested
+
+**** *id_246 *cid_2 *ano_2013
+alternatives the paper focuses on 2 local_scale intervention research projects undertaken in urbanised coastal areas in brazil and in australia concentrated on improving the dialogue between those who make science and those who use science to make decisions in order to
+
+**** *id_246 *cid_2 *ano_2013
+make climate science more useful and creating purposeful collective action respectively a conceptual model is devised to investigate how intervention research could aid adaptive capacity by generating new knowledge and facilitating change towards climate change adaptation at the local level drawing
+
+**** *id_246 *cid_2 *ano_2013
+on the findings a framework is proposed to advance the role of intervention research in policy development for enhancing adaptive capacity
+
+**** *id_249 *cid_2 *ano_2021
+this paper reports about an experience aiming to present the activities developed in the project we propose in tocantins 2017 for young citizen education as protagonists of the community and political life in the palmas city tocantins state brazil the methodology
+
+**** *id_249 *cid_2 *ano_2021
+of a quantitative and qualitative approach was based on the action_research analyzing the implementation of this tool within 6 public high schools in the city in question results showed that the introduction of this platform in public high school context via
+
+**** *id_249 *cid_2 *ano_2021
+transversal optimizes citizen education by awakening young people to participate in the community and political life in a fashion to think and collaborate to local planning for a more welcoming community humanized and sustainable the conclusion was that intersectoral partnerships especially
+
+**** *id_249 *cid_2 *ano_2021
+among public managers universities public schools and society can contribute to access to the rights to the city for everyone social welfare and sustainable urban development
+
+**** *id_250 *cid_2 *ano_2019
+this article illustrates the steps taken to enact a new methodology for participatory social mapping by the environmental education communications and the arts research group of the federal university of mato_grosso the aim of social mapping is to record the identities
+
+**** *id_250 *cid_2 *ano_2019
+territories and socio_environmental conflicts experienced by social groups based on their own namings and narratives rather than relying on those more typically generated or provided by researchers or theorists as such it offers an important dialogical pathway for environmental education practices
+
+**** *id_250 *cid_2 *ano_2019
+in that it highlights the intrinsic relationship between culture and nature and reinforces the understanding that the loss of one implies the disappearance of the other
+
+**** *id_254 *cid_2 *ano_2020
+territorial problems such as the socioecological degradation of urban rivers represent a great challenge to achieving sustainability in cities this issue demands collaborative efforts and the crossing of boundaries determined by actors that act from diverse spheres of knowledge and systems
+
+**** *id_254 *cid_2 *ano_2020
+of practice based on an integrative territory notion and the boundary approach the goal of this paper is to comprehend the boundary crossings that take place in multiactor initiatives towards the resolution of this problem and what type of territorial transformation
+
+**** *id_254 *cid_2 *ano_2020
+is produced as an outcome our analysis is built on participatory research on the taquara stream case a degraded watercourse in a socioecologically vulnerable area in southern brazil our data analysis applied a visual chronological narrative and an interdisciplinary theoretical framework
+
+**** *id_254 *cid_2 *ano_2020
+of analysis that combined concepts related to the territory geography and the boundary approach education we verified that local territorial issues functioned as boundary objects fostering and facilitating dialogical interaction among involved actors knowledge co_production and collaborative practical actions that led
+
+**** *id_254 *cid_2 *ano_2020
+to changes in the territory in terms of practices comprehensions and physical concrete transformations we framed this study as one of territory_based learning meant to advance the understanding of territorial intervention processes towards urban sustainability
+
+**** *id_255 *cid_2 *ano_2020
+involved citizen participation in water footprint analysis this paper integrates time_series with the perceptions of the citizens knowledge and beliefs concerning sanitation elements to account for municipal blue and grey water footprints in sao carlos brazil from 2009 to 2016 and
+
+**** *id_257 *cid_2 *ano_2015
+at a time when voices are being felt around the globe denouncing adverse conditions to the democratic citizenship practices and the achievement of equality and freedom ideals young people from all over the world appear in public spheres as social forces
+
+**** *id_257 *cid_2 *ano_2015
+that articulate and lead social changes this paper proposes a microclipping about this social phenomenon bringing to discussion an intervention in community communication with young people during the 2014 in caruaru brazil methodology sought to promote a reverse extension through action_research
+
+**** *id_257 *cid_2 *ano_2015
+and deep listening to youths practiced through diaries dialogues pictures drawings and notes in expectation of echoing the voices of young people the results indicate that the youth narratives reveal the diversity of forms and cultural meanings opening discussion about emancipatory and egalitarian co_presence character of community communication over and above compensatory inclusion
+
+**** *id_258 *cid_2 *ano_2014
+the argument in this paper is that action and participatory research developed within the context of social and political movements aimed at promoting democratic relationships and institutions represents a methodological strategy for deconstructing and reconstructing the hegemonic perspective of knowledge and
+
+**** *id_258 *cid_2 *ano_2014
+knowledge production after a brief reflection about the place of social transformation in current social practice especially in education the paper looks at selected traditions of action and participatory research from europe including england tavistock scandinavia and germany and in latin
+
+**** *id_258 *cid_2 *ano_2014
+america including colombia and brazil these experiences whilst attending to particular social conditions can be seen as attempts to develop knowledge that promotes and strengthens a shared world view that aims at social justice and recognition of differences
+
+**** *id_259 *cid_2 *ano_2020
+the use of the arts in qualitative research has been presented as an interesting resource in view of the possibility of expanding the spectrum of perspectives available for the construction and dissemination of knowledge it enhances visibility and encourages community reflection
+
+**** *id_259 *cid_2 *ano_2020
+and participation we aim to present the experience of art production from qualitative health research on the therapeutic itineraries of the trans population in a municipality in northeastern brazil in addition to this we would like to encourage dialogue between researchers
+
+**** *id_259 *cid_2 *ano_2020
+in the field of health and the arts and contribute to the construction of a possible interface between these 2 areas we developed qualitative health research based on semi_structured interviews the effects generated by the encounters with the subjects subsidized artistic
+
+**** *id_259 *cid_2 *ano_2020
+production we perceive weaknesses regarding access to health this search was marked by prejudice stigma and violence and mobilized the research_artist in his production the production of art from qualitative health research and its use is a powerful resource for the
+
+**** *id_259 *cid_2 *ano_2020
+dissemination of knowledge from this it is possible to foster community or public participation as a means of promoting social change
+
+**** *id_280 *cid_2 *ano_2022
+in 2022 the civis platform of the brazilian institute for information in science and technology was created it aimed to provide infrastructure and content for understanding and to disseminate the use of citizen_science in brazil it also aimed to provide the
+
+**** *id_280 *cid_2 *ano_2022
+basis for developing initiatives and methodologies in this area this study analyses the implementation of citizen_science in the context of open science the study seeks to understand how the platform promotes the participation of society in various stages of the scientific
+
+**** *id_280 *cid_2 *ano_2022
+process and not only in data collection the citizen_science projects available on civis platform will be surveyed and analyzed the data collected in october 2022 are subdivided into 5 main categories area data collection social participation open data and scope these
+
+**** *id_280 *cid_2 *ano_2022
+were registered on the civis platform most of which are contributive the primary area of emphasis is biological sciences and they use technological infrastructure for mobile data collection civis is a multidisciplinary platform to promote citizen_science in brazil the registration of
+
+**** *id_281 *cid_2 *ano_2023
+citizen_science favors social participation in scientific processes this article seeks to investigate the citizen laboratories of the federal universities of brazil from the perspective of citizen_science we aim to map the citizen laboratories subsidized by federal universities of brazil and to
+
+**** *id_281 *cid_2 *ano_2023
+analyze their scope of action in order to understand their role in terms of social innovation and how they promote the participation of citizen scientists it consisted of a survey of the federal universities of brazil through the institutional site of
+
+**** *id_281 *cid_2 *ano_2023
+openness for social participation possibility to explore and appropriate technologies aimed at social interests focus on learning targeting the promotion of social innovations the research enabled the identification of 10 citizen labs in federal universities of brazil which are aligned with
+
+**** *id_281 *cid_2 *ano_2023
+relevant social issues and generate benefits in terms of innovations that can be socially shared the citizen labs analyzed enable an approximation between the university and society in general but do not detail how the social contributions of citizen scientists are
+
+**** *id_281 *cid_2 *ano_2023
+incorporated into their actions initiatives in this direction are still incipient in the country but they have the potential to boost citizen participation in scientific research
+
+**** *id_286 *cid_2 *ano_2021
+currently there is a demand to produce science in a participatory way since agents of society researchers legislators politicians educators entrepreneurs and citizens must be involved in the scientific production process from the construction of the agenda to the completion of
+
+**** *id_286 *cid_2 *ano_2021
+the project and results in order to foster the construction of a responsible society for the future the challenges arising from this context have been the object of theoretical approaches to research and responsible innovation which the article describes examines and
+
+**** *id_286 *cid_2 *ano_2021
+contextualizes in the current scenario the methodology includes bibliometric and bibliographic reviews used in order to understand the dissemination of the term in the english and portuguese languages in addition to rescuing the context of the research and responsible innovation exploring
+
+**** *id_286 *cid_2 *ano_2021
+its concepts and principles we sought to reflect on the challenges of implementing research and responsible innovation in brazil it is expected to contribute to the research and responsible innovation dialogue in the country and to raise reflections on the importance of applying it to agents and initiatives responsible for the socioeconomic and environmental spheres
+

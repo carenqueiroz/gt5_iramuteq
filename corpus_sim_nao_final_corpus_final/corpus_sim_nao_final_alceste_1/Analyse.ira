@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 20000
+tailleuc1 = 12
+nbcl = 4
+tailleuc2 = 14
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 10
+svdmethod = irlba
+mode.patate = 0
+corpus = 2485d83d-ced9-41f8-94d6-793bbcbc6b14
+pathout = C:\Users\Caren\Desktop\IRAMUTEQ_DADOS\corpus_sim_nao_final_corpus_final\corpus_sim_nao_final_alceste_1
+uuid = a22ae2fb-737d-4510-a77f-f015d06a4f40
+name = corpus_sim_nao_final_alceste_1
+eff_min_forme = 3
+nbactives = 1553
+clnb = 4
+time = 0h 0m 19s
+ira = C:\Users\Caren\Desktop\IRAMUTEQ_DADOS\corpus_sim_nao_final_corpus_final\corpus_sim_nao_final_alceste_1\Analyse.ira

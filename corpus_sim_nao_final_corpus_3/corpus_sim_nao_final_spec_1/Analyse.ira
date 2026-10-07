@@ -1,0 +1,13 @@
+[spec]
+type = spec
+lem = 1
+mineff = 3
+indice = hypergeo
+typeformes = 1
+clnb = 2
+pathout = C:\Users\Caren\Desktop\IRAMUTEQ_DADOS\corpus_sim_nao_final_corpus_3\corpus_sim_nao_final_spec_1
+corpus = a2f433a8-b0da-4422-8004-8ee76f245896
+uuid = a89412cb-43f7-471c-8804-fa0d8dc13668
+name = corpus_sim_nao_final_spec_1
+ira = C:\Users\Caren\Desktop\IRAMUTEQ_DADOS\corpus_sim_nao_final_corpus_3\corpus_sim_nao_final_spec_1\Analyse.ira
+time = 0h 0m 9s
